@@ -3,18 +3,7 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+This is the personal website of Andrei Oghina, hosted by [GitHub Pages](http://pages.github.com). You can find it at [andrei.oghina.com](http://andrei.oghina.com).
 
 ## Setup
 
@@ -22,9 +11,7 @@ Some fun facts about the setup of this project include:
 
 * Built for [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+* Set up using [Poole](https://github.com/poole/poole) and [this nice how-to article](http://joshualande.com/jekyll-github-pages-poole/)
+* Configured with [Atom](http://atom.io), an amazing code editor
 
 Thanks for reading!
