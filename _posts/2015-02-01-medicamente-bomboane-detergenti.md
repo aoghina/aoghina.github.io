@@ -8,6 +8,8 @@ De fiecare dată când vin acasă, nici nu intru bine în București și sunt bo
 
 Ce se întâmplă? De unde această abundență a reclamelor la medicamente, clinici, farmacii, și de ce acest contrast cu alte țări, în care nu vezi aproape niciodată o astfel de reclamă.
 
+<!--more-->
+
 ***Medicamentele nu sunt bomboane*** — așa pare că s-a numit o campanie din 2013, finanțată de producătorii de medicamente și Ministerul Sănătăţii, care avertiza că [60% dintre părinţi dau medicamente copiilor fără consult medical, riscând agravarea bolii][1]. O campanie binevenită, dar despre care eu am aflat deabia acum, căutând informații pentru acest articol.
 
 În schimb, se pare că, în România, [domeniul farmaceutic este cel mai promovat la televizor, cu peste un milion de reclame pe an][2]. Se cheltuiesc sume uriașe cu toate aceste afișe și reclame la televizor, la radio, pe internet, sume care vin din vânzările acestor companii și, în final, din buzunarul *clienților*. Însăși abundența reclamelor este dovada că acestea funcționează: oamenii cumpără mai multe medicamente din cauza promovării lor, atfel nu ar mai fi promovate.

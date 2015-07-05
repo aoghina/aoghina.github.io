@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-This is the personal website of Andrei Oghina, hosted by [GitHub Pages](http://pages.github.com). You can find it at [andrei.oghina.com](http://andrei.oghina.com).
+Hi, I'm Andrei Oghină and this is my personal website. You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteKid](https://www.tastekid.com/andrei).
 
 ## Setup
 

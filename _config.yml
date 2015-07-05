@@ -7,8 +7,9 @@ relative_permalinks: true
 # Setup
 title:               ⌂
 url:                 http://andrei.oghina.com
-paginate:            1
+paginate:            5
 baseurl:             ""
+excerpt_separator:   "<!--more-->"
 
 # Assets
 #
