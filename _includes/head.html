@@ -14,10 +14,11 @@
   </title>
 
   {% if page.title %}
-    <meta content="{{ page.title }}" property="og:title">
+    <meta property="og:title" content="{{ page.title }}">
   {% endif %}
   {% if page.excerpt %}
-    <meta content="{{ page.excerpt | strip_html | strip_newlines }}..." property="og:description">
+    <meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines }}...">
+    <meta property="og:type" content="article" />
   {% endif %}
 
   <!-- CSS -->
