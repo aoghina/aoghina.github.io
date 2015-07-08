@@ -6,7 +6,7 @@ comments: True
 
 Pe cât de tragic, pe atât de revoltător este [accidentul][1] în care a murit Darius.
 
-Sunt multe cauze din care o mașină poate părăsi involuntar banda pe care se află: o greșeală, o defecțiune, o tamponare (cum a fost cazul aici), un animal. Drumurile trebuie să fie cât mai tolerante în astfel de situații. În schimb, de multe ori sunt împânzite de capcane, puse parcă special pentru a transforma o greșeală într-o tragedie.
+Sunt multe cauze din care o mașină poate părăsi involuntar banda de circulație: o greșeală, o defecțiune, o tamponare din spate, un animal. Drumurile trebuie să fie cât mai tolerante în astfel de situații. În schimb, de multe ori sunt împânzite de capcane, puse parcă special pentru a transforma o greșeală într-o tragedie.
 
 <!--more-->
 
