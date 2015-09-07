@@ -5,9 +5,9 @@ title: About
 
 Hi, I'm Andrei Oghină and this is my personal website. You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteKid](https://www.tastekid.com/andrei).
 
-## Setup
+## This site
 
-Some fun facts about the setup of this project include:
+Some fun facts about the setup of this site include:
 
 * Built for [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
