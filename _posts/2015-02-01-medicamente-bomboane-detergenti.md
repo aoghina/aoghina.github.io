@@ -32,7 +32,7 @@ Nu sunt de vină medicii, dar nici companiile, căci dacă concurența își fac
 Presupunând că legislația este armonizată la nivel european, nu știu de ce la noi sunt împânzite străzile, posturile TV și radio de reclame la medicamente și farmacii, în timp ce în alte părți nu vezi nicio astfel de reclamă. Bănuiesc că este vorba de reglementare și fiscalitate, mecanisme prin care statul poate controla acest fenomen. Probabil există oameni care știu cauzele exacte și pot găsi soluții detaliate. Eu am doar câteva idei simple:
 
 1. Restricționarea reclamelor la medicamente și farmacii, pentru că stimulează automedicația. Există un [proiect de lege][4] în acest sens.
-2. Controlul produselor și serviciilor promovate a având efect asupra sănătății; ce nu este omologat, ar trebui fie interzis, fie marcat ca atare.
+2. Controlul produselor și serviciilor promovate ca având efect asupra sănătății; ce nu este omologat, ar trebui fie interzis, fie marcat ca atare.
 3. Eliminarea conflictului de interese, fie prin interzicerea oricărei forme de sponsorizări a medicilor de către companiile farmaceutice, fie măcar prin obligativitatea declarării acestor sponsorizări.
 
 Desigur, schimbări nu o să se întâmple prea curând, deoarece sunt mulți bani, și deci interese puternice, în joc. Dar până la urmă, tot acest mecanism s-ar prăbuși, fară legi și restricții, dacă noi, "consumatorii", am fi mai conștineți de existența lui. Dacă oamenii nu s-ar lăsa influențați de aceste reclame, ele ar deveni ineficiente financiar și ar dispărea de la sine.
