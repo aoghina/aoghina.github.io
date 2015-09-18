@@ -5,7 +5,7 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               ⌂
+title:               Andrei Oghină
 url:                 http://andrei.oghina.com
 paginate:            5
 baseurl:             ""
@@ -20,7 +20,7 @@ sass:
 
 # About/contact
 author:
-  name:              Andrei Oghina
+  name:              Andrei Oghină
   url:               http://andrei.oghina.com
   email:             andrei@oghina.com
 
