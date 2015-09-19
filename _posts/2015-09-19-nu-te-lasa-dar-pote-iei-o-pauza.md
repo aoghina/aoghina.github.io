@@ -10,7 +10,7 @@ Un moment bun este când te cam scârbește fumul, când te irită că TREBUIE s
 
 <!--more-->
 
-Argumentele încep să curgă: "ce rost are să mă chinui", "eu oricum nu o să mă las", "dar îmi place să fac asta", "e prea târziu", etc. Creierul încearcă, cu justificări parșive, să te păcălească să-i satisfaci receptorii nicotinici dependenți. Dar ce, nu poți să iei și tu măcar o pauză dacă vrei? Chiar așa, nu se poate nici o zi fără doza de nicotină? Mai dă-i încolo de receptori, o să se dezvețe. Uite-te la filme sau citește, chiar dacă nu te poți concentra. Luptă un pic cu dependența, că trece în câteva zile, și merită. Ieși la o plimbare, dă o tură cu bicicleta, și bucură-te de timpul care trece.
+Argumentele încep să curgă: "ce rost are să mă chinui", "eu oricum nu o să mă las", "dar îmi place să fac asta", "e prea târziu", etc. Creierul încearcă, cu justificări parșive, să te manipuleze să-i satisfaci receptorii nicotinici dependenți - care te păcălesc că asta e "plăcere". Dar ce, nu poți să iei și tu măcar o pauză dacă vrei? Chiar așa, nu se poate nici o zi fără doza de nicotină? Mai dă-i încolo de receptori, o să se dezvețe. Uite-te la filme sau citește, chiar dacă nu te poți concentra. Luptă un pic cu dependența, că trece în câteva zile, și merită. Ieși la o plimbare, dă o tură cu bicicleta, și bucură-te de timpul care trece.
 
 ![Dependența de nicotină](/assets/nicotine-addiction.jpg "Dependența de nicotină")
 
