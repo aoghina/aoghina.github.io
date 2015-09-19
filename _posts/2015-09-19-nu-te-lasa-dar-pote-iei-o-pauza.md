@@ -4,7 +4,7 @@ title: Nu te lăsa, dar poate iei o pauză
 comments: True
 ---
 
-Nu te lăsa, dacă ți se pare greu, irevocabil, intimidant sau inutil. Dar ce zici de o pauză? Nu trebuie să fie lungă: să zicem două săptămâni, așa cât să se curețe plămânii, să te dezintoxici, să scapi un pic de dependență.
+Nu te lăsa, dacă ți se pare greu, irevocabil sau inutil. Dar ce zici de o pauză? Nu trebuie să fie lungă: să zicem două săptămâni, așa cât să se curețe plămânii, să te dezintoxici, să scapi un pic de dependență.
 
 Un moment bun este când te cam scârbește fumul, când te irită că TREBUIE să fumezi; poate într-o vineri, când vine un weekend liniștit, fără mari planuri sau obligații. Așteaptă-te la discomfort, poate chiar durere, dar și la o ceață aproape plăcută, ca și când ai avea o răceală. Asigură-te că ai la îndemână sticks-uri, fructe și biscuiți, precum și filme, cărți sau jocuri.
 
