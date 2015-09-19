@@ -6,7 +6,7 @@ comments: True
 
 Dacă ți se pare fie prea greu, fie inutil să nu mai fumezi deloc, poate iei o pauză. Nu trebuie să fie lungă: să zicem două săptămâni, cât să se curețe plămânii, să scapi un pic de dependență. Și apoi poți să compari.
 
-Argumentele încep să curgă: "ce rost are să mă chinui", "oricum nu o să mă las", "mie îmi place să fac asta", "e prea târziu", etc. Creierul încearcă, cu justificări parșive, să te manipuleze, cu tot felul de argumente false, să-i satisfaci receptorii nicotinici dependenți - care te păcălesc că asta e "plăcere". Dar ce, nu poți să iei și tu măcar o pauză, dacă vrei? Chiar așa, nu se poate nici o zi fără doza de nicotină? Receptorii o să se dezvețe, iar argumentele se vor prăbuși.
+Argumentele încep să curgă: "ce rost are să mă chinui", "oricum nu o să mă las", "mie îmi place să fac asta", "e prea târziu", etc. Creierul încearcă, cu tot felul de justificări false, să te manipuleze să-i satisfaci receptorii nicotinici dependenți - care te păcălesc că asta e "plăcere". Dar ce, nu poți să iei și tu măcar o pauză, dacă vrei? Chiar așa, nu se poate nici o zi fără doza de nicotină? Receptorii o să se dezvețe, iar argumentele se vor prăbuși.
 
 <!--more-->
 
