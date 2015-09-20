@@ -2,6 +2,7 @@
 layout: post
 title: Capcanele de pe șosele au mai curmat o viață
 comments: True
+lang: ro
 ---
 
 Pe cât de tragic, pe atât de revoltător este [accidentul][1] în care a murit Darius.

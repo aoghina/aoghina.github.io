@@ -8,9 +8,19 @@ layout: default
   {{ content }}
 </article>
 
+<aside class="share-plug">
+    {% if page.lang == 'ro' %}
+    Pentru întrebări sau comentarii, folosește secțiunea de mai jos. Dacă ți-a plăcut aceast articol, poți să îl
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">distribui pe Facebook</a>.
+    {% else %}
+    If you have any questions or comments, please post them below. If you liked this post, you can
+    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">share it on Facebook</a>.
+    {% endif %}
+</aside>
+
 {% if site.related_posts != empty %}
 <aside class="related">
-  <h2>Related Posts</h2>
+  <h2>{% if page.lang == 'ro' %}Alte articole{% else %}Related Posts{% endif %}</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>

@@ -2,6 +2,7 @@
 layout: post
 title: Dacă nu te lași, poate iei o pauză
 comments: True
+lang: ro
 ---
 
 Dacă ți se pare fie prea greu, fie inutil să nu mai fumezi deloc, poate iei o pauză. Nu trebuie să fie lungă: să zicem două săptămâni, cât să se curețe plămânii, să scapi un pic de dependență. Și apoi poți să compari.
