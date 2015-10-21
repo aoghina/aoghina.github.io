@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Capcanele de pe șosele au mai curmat o viață
+title: Capcanele de pe șosele
 comments: True
 lang: ro
 ---
@@ -25,11 +25,11 @@ Ambele blocuri despărțitoare pornesc de la nivelul solului, iar bordura este m
 
 Sunt multe astfel de capcane, dar poate cea mai aberantă este bordura criminală din mijlocul DN1. Autostrăzile sunt mai sigure pentru că au separatoare care previn intrarea pe contrasens în cazul pierderii controlului, evitând astfel impactul frontal, de multe ori mortal. Pe DN1, acea bordură are efectul exact invers, provocând intrarea pe contrasens la cea mai mică eroare, cauzând deja [numeroase accidente](http://www.onlinesport.ro/motorsport/stiri-auto/bordura-criminala-din-mijlocul-dn1-mai-face-un-accident-nid-72198/), [încă din 2010](http://observator.tv/eveniment/bordura-dintre-viata-si-moarte-pericol-pe-dn1-60772.html). Mai nou, are și o sora pe Calea Victoriei, suficient de mică cât nici să nu o observi când spre exemplu e zăpadă, dar suficient de mare cât să te poți [răsturna dacă o acroșezi][3].
 
-Altă capcană, deja istorică, care a curmat probabil sute de vieți, sunt copacii plantați fix pe marginea șoselei, prezenți pe atâtea drumuri naționale.
+Altă capcană, deja istorică, care a curmat probabil sute de vieți, sunt copacii plantați fix pe marginea șoselei, prezenți pe atâtea drumuri naționale. Marcajele necorespunzătoare sunt de asemenea responsabile pentru nenumărate tragedii. 
 
 În acest caz, a fost deschis un dosar penal pentru ucidere din culpă și vătămare corporală gravă. Cel mai probabil vinovată va ieși șoferița care se afla la volan, în nici un caz proiectantul acelui cap de pod. Și ne mirăm apoi că [România este pe locul doi in UE la numărul de victime ale accidentelor rutiere][2], având dublul mediei europene. Se dă vina pe șoferi, dar de cele mai multe ori, infrastructura proastă transformă ceea ce ar putea rămâne un mic incident, într-o tragedie.
 
-Chiar nu este nimeni responsabil de siguranța drumurilor? Pare-se nu doar că nu se respectă niște norme elementare, dar nici măcar nu există minima decența de a lua măsuri atunci când se constată că un element de drum cauzeaza accidente mortale.
+Chiar nu este nimeni responsabil de siguranța drumurilor? Pare-se nu doar că nu se respectă niște norme elementare, dar nici măcar nu există minima decența de a lua măsuri atunci când se constată că un element de drum cauzează accidente mortale.
 
 [1]: http://stirileprotv.ro/stiri/actualitate/buchete-cu-flori-albe-depuse-in-orasele-din-tara-in-memoria-lui-darius-dadoo-floristul-mort-intr-un-accident-in-capitala.html
 [2]: http://www.agerpres.ro/social/2015/03/24/romania-locul-doi-in-ue-dupa-numarul-de-morti-din-accidente-rutiere-15-28-46
