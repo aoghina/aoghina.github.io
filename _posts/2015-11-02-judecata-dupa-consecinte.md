@@ -4,7 +4,7 @@ title: Judecata după consecințe
 comments: True
 lang: ro
 redirect_from:
-  - /post/123456789/
+  - /2015/11/28/judecata-dupa-consecinte/
 ---
 
 Acum niște ierni, am derapat pe zloată cu mașina într-o curbă, am ieșit de pe carosabil și m-am oprit într-un pom. S-a întâmplat în oraș, viteza era mică, așa că în afara unei sperieturi și a unei avarii, nimeni nu a pățit nimic. Nu am primit nici măcar o amendă, și după ce am făcut constatarea, am ieșit în oraș.
