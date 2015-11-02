@@ -36,3 +36,6 @@ pages_list:
   TasteKid: 'http://www.tastekid.com/andrei'
 
 #  Feed: '/atom.xml'
+
+gems:
+  - jekyll-redirect-from
