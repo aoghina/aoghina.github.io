@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Andrei Oghină
 url:                 http://andrei.oghina.com
-paginate:            5
+paginate:            10
 baseurl:             ""
 excerpt_separator:   "<!--more-->"
 
