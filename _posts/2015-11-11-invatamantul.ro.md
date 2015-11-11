@@ -7,19 +7,19 @@ lang: ro
 
 *Am publicat inițial acest articol în 2008, după absolvirea facultății, la adresa [invatamantul.ro](http://invatamantul.ro/ "Invatamantul.ro"). A iscat la vremea respectivă multe comentarii. Acum, în 2015, aș reformula unele idei, dar fondul cred că este încă valabil.*
 
+<!--more-->
+
 ---
 
 ### 1. Despre acest articol
 
 Acest articol reprezintă o promisiune pe care mi-am făcut-o în studenție, perioadă ce s-a încheiat de puțin timp. Toate nedreptățile, abuzurile, erorile și aberațiile sistemului de învățământ ne afectează direct în intervalul în care facem parte din acest sistem, în calitate de elevi sau studenți. Odată încheiată această perioadă, rămânem cu diplomele, iar toate neregulile constatate și trăite nu mai prezintă interes pentru noi și ca atare le dăm uitarii. Ne vedem de viețile noastre în continuare și nu vedem vreun motiv de a lupta pentru o cauză ce nu ne mai afectează. Acest simptom se manifestă de la o generație la alta și poate, peste un număr de ani, unii dintre noi ajungem să facem iarăși parte din acest sistem, de partea cealaltă a "baricadei". O baricadă ce nici nu ar trebui să existe, însă din păcate, odată ajunși "oameni mari", devenim orbi și surzi la problemele cu care se confruntă tinerii. Ne credem maturi și suntem convinși că lucrurile stau așa cum le vedem noi, că avem mereu dreptate.
 
-<!--more-->
-
 Elementul central al întregului sistem educațional, cel pentru care există toate școlile, liceele, facultățile, bibliotecile, profesorii, personalul auxiliar, materialele didactice și Ministerul Educației, și anume elevul/studentul, nu are nimic de spus în ceea ce privește organizarea lui. Cei ce iau decizii cu privire la modul în care are loc procesul de învățământ nu urmăresc interesele copiilor. Pe de o parte, faptul că ei au trecut prin acest sistem le oferă informații ce ar putea contribui la îmbunătățirea lui, însă în același timp, însuși faptul că această experiență se regăsește undeva în trecutul lor face ca informațiile să fie șterse sau distorsionate.
 
 ### 2. Despre mine
 
-Am 24 de ani și am absolvit Facultatea de Automatică și Calculatoare din București, în vara anului 2007. Am obținut burse de studiu în mai multe semestre iar în anul 2000, în clasa a X-a, am luat premiul al III-lea la Olimpiada Națională de Informatică, faza pe țară. Menționez aceste detalii pentru a preveni punerea criticilor pe care urmează să le aduc sistemului de învățământ din România pe seama unor neîmpliniri personale sau nereușite academice.
+Am 24 de ani și am absolvit Facultatea de Automatică și Calculatoare din București, în vara anului 2007. Am obținut burse de studiu în mai multe semestre iar în liceu am luat premiul al III-lea la Olimpiada Națională de Informatică. Menționez aceste detalii pentru a preveni punerea criticilor pe care urmează să le aduc sistemului de învățământ din România pe seama unor neîmpliniri personale sau nereușite academice.
 
 ### 3. Problemele
 
