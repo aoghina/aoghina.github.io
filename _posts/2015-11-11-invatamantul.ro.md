@@ -5,7 +5,7 @@ comments: True
 lang: ro
 ---
 
-*Am publicat inițial acest articol în 2008, după absolvirea facultății, la adresa [invatamantul.ro](http://invatamantul.ro/ "Invatamantul.ro"). A iscat la vremea respectivă multe comentarii. Acum, în 2015, aș reformula unele idei, dar fondul cred că este încă valabil.*
+*Am publicat aceste gânduri în 2008, după absolvirea facultății, la adresa [invatamantul.ro](http://invatamantul.ro/ "Invatamantul.ro"). Au iscat de-a lungul timpului multe comentarii. Acum, în 2015, aș reformula unele idei, dar fondul cred că este, din păcate, încă valabil.*
 
 <!--more-->
 
