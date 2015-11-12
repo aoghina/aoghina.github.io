@@ -19,7 +19,7 @@ Elementul central al întregului sistem educațional, cel pentru care există to
 
 ### 2. Despre mine
 
-Am 24 de ani și am absolvit Facultatea de Automatică și Calculatoare din București, în vara anului 2007. Am obținut burse de studiu în mai multe semestre iar în liceu am luat premiul al III-lea la Olimpiada Națională de Informatică. Menționez aceste detalii pentru a preveni punerea criticilor pe care urmează să le aduc sistemului de învățământ din România pe seama unor neîmpliniri personale sau nereușite academice.
+Am 24 de ani și am absolvit Facultatea de Automatică și Calculatoare din București, în vara anului 2007. Am obținut burse de studiu în mai multe semestre iar în liceu am luat premiul al III-lea la Olimpiada Națională de Informatică. Menționez aceste detalii pentru a preveni punerea criticilor pe care urmează să le aduc sistemului de învățământ din România pe seama unor nereușite academice personale.
 
 ### 3. Problemele
 
