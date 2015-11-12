@@ -107,7 +107,7 @@ Unul din mecanismele fundamentale ale învățării este repetiția. Repetiția 
 
 Repetiția constructivă este de multe ori neglijată în predare. Sunt anumite noțiuni mai importante, poate unele mai greu de reținut, care trebuie repetate, poate de mai multe ori, în lecții succesive sau de fiecare dată când vine vorba de ele. Mulți profesori trăiesc cu falsa impresie că datoria reținerii este exclusiv a elevului și cred că dacă au prezentat o noțiune este suficient.
 
-În majoritatea cursurilor sau programelor școlare din alte țări se insistă mult pe repetitivitate, până când elevii mai atenți devin plictisiți chiar de explicarea noțiunii în cauză. La noi, se merge pe principiul "Doar am facut asta lecția trecută (luna trecută, semestrul trecut, anul trecut), ce, nu cumva nu ați învățat?!".
+În cursurile bune se insistă pe repetitivitate, profesorul întreabă des "ați înțeles?" și explică din nou dacă sunt dubii, până când unii elevi ajung chiar să se plictisească. La noi de multe ori se merge pe principiul "Am predat asta lecția trecută (sau poate anul trecut), nu cumva nu ați învățat?".
 
 ##### Practica
 
