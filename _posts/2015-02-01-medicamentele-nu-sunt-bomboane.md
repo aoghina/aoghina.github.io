@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Medicamentele nu sunt nici bomboane, nici detergenți
+title: Medicamentele nu sunt bomboane
 comments: True
 lang: ro
+redirect_from:
+  - /2015/02/01/medicamente-bomboane-detergenti/
 ---
 
 De fiecare dată când vin acasă, nici nu intru bine în București și sunt asaltat din toate părțile: la radio, reclame la pastile pentru răceală; pe clădiri, reclame la clinici specializate în boala Lyme sau hemoroizi; peste tot, Stela și Arșinel te îndeamnă să cumperi medicamete de la o anumită farmacie. La televizor, din nou reclame la medicamente, pentru mesele grele, pentru pancreas, pentru prostată, pentru orice. La fiecare colț e câte o farmacie. La farmacie, ești îndemnat să iei 5 pliculețe pentru răceală, în loc de 3, "că sunt la ofertă". Pastile, creme, picături, suplimente, vitamine, și, nu mai țin minte unde, dar am văzut și reclamă la operații pe creier, cu super-prețul afișat.
