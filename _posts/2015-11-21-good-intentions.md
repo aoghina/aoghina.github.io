@@ -3,6 +3,8 @@ layout: post
 title: Good intentions
 comments: True
 lang: en
+redirect_from:
+  - /2015/11/21/teaching-chickens-how-to-fly/
 ---
 
 During summertime, my grandparents used to take my cousin and me to Târgu Neamț, a small town in the north of the country, where my grandmother was from. I have great childhood memories from there, but also a few that I'm not so proud of.
