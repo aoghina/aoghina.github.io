@@ -17,7 +17,7 @@ Like any child, I had plenty of ideas and plans that seemed reasonable at the ti
 
 I presented my thoughts to my cousin. She agreed that the theory was sound and the cause was well deserving our efforts. We decided to pick the two youngest ones and teach them their forgotten skill, because the younger you are, the faster you learn. Everything made sense.
 
-Since chickens have wings, we thought flying should be in their instinct, and it must be just a matter of training. Therefore, we proceeded to catch them, climb on a tall garden table, and throw them up in the air, as high as we could. They would desperately flap their tiny wings a couple of times while falling down on the grass, and then run away. "Not so fast", we would say, chasing and catching them back and throwing them once again in the air: "You will thank us one day!".
+Since chickens have wings and flying is an instinct, we thought it must be just a matter of training. Therefore, we proceeded to catch them, climb on a tall garden table, and throw them up in the air, as high as we could. They would desperately flap their tiny wings a couple of times while falling down, and then run away. "Not so fast", we would say, chasing and catching them back and throwing them once again in the air: "You will thank us one day!".
 
 After a few days, our brave trainees suddenly disappeared. Their progress was below expectations, so flying away was not an option to consider. We asked our grandmother, who answered ambiguously, claiming they were "ill" (she didn't know anything about our secret flying school, of course). I never saw the poor creatures again, and, while hoping that our ambitious program didn't cause their disappearance, I had to take that possibility into account.
 
