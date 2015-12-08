@@ -3,9 +3,9 @@ layout: page
 title: About
 ---
 
-Hi, I'm Andrei Oghină and this is my personal website. You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteKid](https://www.tastekid.com/andrei).
+Hi, I'm Andrei Oghină and on this site I'm sharing some of my thoughts. You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteKid](https://www.tastekid.com/andrei).
 
-## This site
+### This site
 
 Some fun facts about the setup of this site include:
 
