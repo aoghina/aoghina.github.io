@@ -5,7 +5,7 @@ comments: True
 lang: ro
 ---
 
-Ne dorim politicieni competenți și cinstiți, dar în ce fel putem atinge acest scop? De ce ar intra astăzi un profesionist onest în politică?
+Ne dorim politicieni competenți și cinstiți, dar în ce fel putem atinge acest scop? De ce ar intra astăzi un profesionist autentic și onest în politică?
 
 <!--more-->
 
