@@ -9,7 +9,7 @@ Ne dorim politicieni competenți și cinstiți, dar cum se poate atinge acest sc
 
 <!--more-->
 
-Instigarea la ură nu duce la lucruri bune și este sancționată inclusiv legal. Pentru unele categorii de oameni, sărim imediat să strigăm "discriminare", în timp ce altele ni se pare că merită acest tratament. În frunte cu politicienii, cu cei bogați, în funcții de conducere, și, mai nou, cu preoții, se dă fără sfială de pământ în neștire. Sunt jigniți cu ură și acuzați laolaltă, inclusiv cei despre care nu se știe nimic. Trecând peste nedreptatea individuală a oricărei acuzări prin generalizare, ne ajută abordarea asta cu ceva? Vrem oare să revenim la perioade în care aceste categorii de oameni au fost violent epurate?
+Instigarea la ură nu duce la lucruri bune și este sancționată inclusiv legal. Pentru unele categorii de oameni, sărim imediat să strigăm "discriminare", în timp ce altele ni se pare că merită acest tratament. În frunte cu politicienii, cu cei bogați, în funcții de conducere, dar și cu preoții, se dă fără sfială de pământ în neștire. Sunt jigniți cu ură și acuzați laolaltă, inclusiv cei despre care nu se știe nimic. Trecând peste nedreptatea individuală a oricărei acuzări prin generalizare, ne ajută abordarea asta cu ceva? Vrem oare să revenim la perioade în care aceste categorii de oameni au fost violent epurate?
 
 Este crucial să ne putem exprima liber și să ne criticăm politicienii. Generalizarea este un mecanism fundamental de învățare și nu trebuie să ne ferim principial de ea. Dar este oare util, pentru noi înșine, să acuzăm mereu grămadă, să ștergem identitatea individuală, să strigăm că "toți sunt la fel"?
 
