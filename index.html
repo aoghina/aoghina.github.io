@@ -14,9 +14,9 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    {{ post.excerpt }}
-    <a href="{{ post.url }}">&rarr;</a>
+    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<a href="{{ post.url }}">&rarr;</a></p>
   </article>
+  <hr>
   {% endfor %}
 </div>
 
