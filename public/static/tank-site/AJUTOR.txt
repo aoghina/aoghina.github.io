@@ -1,0 +1,3 @@
+"TANK ACTION" este primul program de anvergura realizat de mine. Continand peste 1200 de linii de cod, structurat si continand diversi algoritmi, in mare parte dezvoltati de mine, precum si utilizand diverse tipuri de date alocate static si dinamic programul a fost catalogat drept o realizare exceptionala pentru varsta respectiva de catre fostul meu profesor de informatica de la acea vreme, Catalin Francu, olimpic international la informatica si actualmente doctorand la M.I.T. 
+<p>
+<img src="comp14.gif" align="left" alt="Eu enervat ca da eroare :)">
