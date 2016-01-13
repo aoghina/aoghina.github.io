@@ -3,11 +3,16 @@ layout: page
 title: About
 ---
 
-Hi, I'm Andrei Oghină and on this site I'm sharing some of my thoughts. You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteKid](https://www.tastekid.com/andrei).
+### Me
+
+* My name is Andrei Oghină
+* I'm from Romania and am currently living in Amsterdam, The Netherlands
+* In the first year of high-school I implemented a game called [Tank Action](/public/static/tank-site/)
+* I'm running [TasteKid](http://www.tastekid.com) in my free time
+* On this site I'm sharing some of my thoughts
+* You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteKid](https://www.tastekid.com/andrei)
 
 ### This site
-
-Some fun facts about the setup of this site include:
 
 * Built for [Jekyll](http://jekyllrb.com)
 * Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
