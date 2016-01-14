@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
   {% include head.html %}
-  {% include ga.html %}
-
   <body>
 
     <div class="container content">
@@ -11,7 +8,7 @@
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}/" title="Home">⌂</a>
           {% for page in site.pages_list %}
-            &nbsp;
+            &nbsp;&nbsp;
             <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
           {% endfor %}
         </h3>

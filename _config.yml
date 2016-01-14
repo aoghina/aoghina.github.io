@@ -31,9 +31,9 @@ github:
 
 pages_list:
   About: '/about'
-  LinkedIn: 'https://www.linkedin.com/in/andreioghina'
-  Facebook: 'https://www.facebook.com/andrei.oghina'
-  TasteKid: 'http://www.tastekid.com/andrei'
+#  LinkedIn: 'https://www.linkedin.com/in/andreioghina'
+#  Facebook: 'https://www.facebook.com/andrei.oghina'
+#  TasteKid: 'http://www.tastekid.com/andrei'
 
 #  Feed: '/atom.xml'
 
