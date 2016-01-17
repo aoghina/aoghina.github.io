@@ -1,11 +1,13 @@
 ---
 layout: post
-title: The limit of science
+title: Misunderstanding science
 comments: True
 lang: en
+redirect_from:
+  - /2016/01/17/the-limit-of-science/
 ---
 
-I'm not a physicist, but Physics fascinates me almost as much as some people see in science a source of fundamental answers. In fact, science is not even trying to give such answers, and we don't have a clue what's going on.
+I'm not a physicist, but Physics fascinates me almost as much as some people see in science a source of universal truth. It's an unfortunate confusion, as science, by design, simply can't answers all questions. Theories are based on assumptions, and there is always a level beyond which the answers stop. What's more, some of the most fundamental phenomena still lack any kind of explanation. In short, we don't have a clue what's going on.
 
 <!--more-->
 
@@ -27,4 +29,4 @@ Matter makes up these objects around us, but we don't know what it itself is mad
 
 ---
 
-These are just some of the fundamental notions that we don't quite understand. Science is built on postulates, and although we get better at modeling the behavior of the world around us using complex, powerful formalisms, we're not answering the most simple questions. But science doesn't even attempt to do that. Physicist say they're just answering "how" questions, figuring out laws that can predict what we can observe. "Why" questions, they claim, have no definitive answer, as there will always be a certain base level of "why" where the answer can only be "because".
+These are just some of the fundamental notions that we don't understand. Science is built on postulates, and although we get better at modeling the behavior of the world around us using complex, powerful formalisms, we still can't answer the most basic questions. But science doesn't even attempt to do that. Physicists say they're only addressing "how" questions, imagining and validating laws that describe and predict more accurately what we can observe. "Why" questions, they claim, have no definitive answer, as there will always be a certain base level of "why" where the answer can only be "because". These distinctions and limitations are nothing new, but many seem unaware of them, believing that science can eventually clarify everything.  
