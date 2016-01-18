@@ -17,15 +17,15 @@ We measure time with clocks and think of it as something that is constantly flow
 
 ### Space
 
-We think of space as a three-dimensional emptiness in which our universe resides. We now know it to be intricately related with time in a continuum called spacetime, but have no clue if it's finite or infinite, if it has a shape and how it appeared. We don't know why our universe seems to have three spatial dimensions, and actually we aren't even sure if they are three.
+We think of space as a three-dimensional emptiness in which our universe resides. We now know it to be intricately related with time in a continuum called spacetime, but have no clue if it's finite or infinite, if it has a shape and how it appeared. We don't know why our universe has three spatial dimensions, and actually we aren't even sure if they are three.
 
-Space is a mysterious topological void through which light and gravity propagate. They travel at an arbitrary speed which looks the same regardless of our own movement, and nothing can go faster. Experiments confirm it, but what causes this behavior and particular value is unknown.  
+Space is a mysterious topological void through which electromagnetic and gravitational waves propagate. They travel at an arbitrary speed which looks the same regardless of our own movement, and nothing can go faster. Experiments seem to confirm these rules, but what causes this behavior and why the speed of light has this particular value is unknown.  
 
 ### Gravity
 
 As we still commonly think of it as a force, gravity is now described as a consequence of objects bending the spacetime around them, pulling towards each other and dilating time. Again, nobody knows why this happens.
 
-Matter makes up these objects around us, but we don't know what it itself is made of. We call matter's building blocks elementary particles, first believed to be atoms, then electrons, protons, neutrons and photons, and now quarks and leptons, each of different types. The deeper we look, the stranger things are, as particles sometimes behave as waves by spreading through space and interfering with themselves, and our observations seem to influence that. Matter has mass, another fundamental, yet elusive physical property that in some ways is equivalent with energy. There is also antimatter, which interestingly bears the properties of regular matter moving backward in time, and it is believed that most of our universe is actually made of dark matter, a hypothetical kind of matter that was not yet observed.
+Matter makes up these objects around us, but we don't know what it itself is made of. We call matter's building blocks elementary particles, first believed to be atoms, then electrons, protons, neutrons and photons, and now quarks and leptons, each of different types. The deeper we look, the stranger things are, as particles sometimes behave as waves by spreading through space and interfering with themselves, and our observations seem to influence that. Matter has mass, another fundamental, yet elusive physical property that in some ways is equivalent to energy. There is also antimatter, which interestingly bears the properties of regular matter moving backward in time, and it is believed that most of our universe is actually made of dark matter, a hypothetical kind of matter that was not yet observed.
 
 ---
 
