@@ -7,7 +7,7 @@ redirect_from:
   - /2016/01/17/the-limit-of-science/
 ---
 
-I'm not a physicist, but Physics fascinates me almost as much as some people see in science a source of universal truth. It's an unfortunate confusion, as science, by design, simply can't answers all questions. Theories are based on assumptions, so there is always a level beyond which the answers stop. What's more, some of the most fundamental phenomena still lack any kind of explanation. In short, we don't have a clue what's going on.
+I'm not a physicist, but physics fascinates me almost as much as some people see in science a source of universal truth. It's an unfortunate confusion, as science, by design, simply can't answers all questions. Theories are based on assumptions, so there is always a level beyond which the answers stop. What's more, some of the most fundamental phenomena still lack any kind of explanation. In short, we don't have a clue what's going on.
 
 <!--more-->
 
