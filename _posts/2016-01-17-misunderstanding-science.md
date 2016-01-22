@@ -7,7 +7,7 @@ redirect_from:
   - /2016/01/17/the-limit-of-science/
 ---
 
-I'm not a physicist, but physics fascinates me almost as much as some people see in science a source of universal truth. It's an unfortunate confusion, as science, by design, simply can't answers all questions. Theories are based on assumptions, so there is always a level beyond which the answers stop. What's more, some of the most fundamental phenomena still lack any kind of explanation. In short, we don't have a clue what's going on.
+I'm not a physicist, but physics fascinates me almost as much as some people see in science a source of universal truth. It's an unfortunate confusion, as science, by design, simply can't answer all questions. Theories are based on assumptions, so there is always a level beyond which the answers stop. What's more, some of the most fundamental phenomena still lack any kind of explanation. In short, we don't have a clue what's going on.
 
 <!--more-->
 
@@ -19,7 +19,7 @@ We measure time with clocks and think of it as something that is constantly flow
 
 We think of space as a three-dimensional emptiness in which our universe resides. We now know it to be intricately connected with time in a continuum called spacetime, but have no clue if it's finite or infinite, if it has a shape and how it appeared. We don't know why our universe has three spatial dimensions, and actually we aren't even sure if they are three.
 
-Space is a mysterious topological void through which electromagnetic and gravitational waves propagate. They travel at an certain speed which looks the same regardless of our own movement, and nothing can go faster. Experiments seem to confirm these rules, but what causes this behavior and why the speed of light has this particular value is unknown.  
+Space is a mysterious topological void through which electromagnetic and gravitational waves propagate. They travel at a certain speed which looks the same regardless of our own movement, and nothing can go faster. Experiments seem to confirm these rules, but what causes this behavior and why the speed of light has this particular value is unknown.  
 
 ### Gravity
 
