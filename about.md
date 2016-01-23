@@ -8,7 +8,7 @@ title: About
 * My name is Andrei Oghină
 * I'm from [Bucharest, Romania](https://www.facebook.com/BucurestiOptimist/) and live in [Amsterdam, The Netherlands](https://www.facebook.com/iamsterdam/)
 * In high-school I implemented [this game](/public/static/tank-site/) in Pascal and made up this [song](/public/static/psychedelic-solo.wav)
-* I studied Computer Science at [Poli](http://acs.pub.ro/en/) and AI at the [UvA](http://gss.uva.nl/future-msc-students/information-sciences/content26/artificial-intelligence.html)
+* I studied computer science at [Poli](http://acs.pub.ro/en/) and artificial intelligence at the [UvA](http://gss.uva.nl/future-msc-students/information-sciences/content26/artificial-intelligence.html)
 * My master thesis was about [optimizing engagement in online news](/public/static/optimizing-engagement-in-online-news.pdf)
 * I founded [TasteKid](http://www.tastekid.com) in 2008 and I'm running it in my free time
 * This [Dutch housing market monitoring tool](http://propertrend.com) is one of my small projects
