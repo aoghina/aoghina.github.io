@@ -7,9 +7,9 @@ lang: ro
 
 Ne dorim politicieni competenți și cinstiți, dar cum se poate atinge acest scop? De ce ar intra astăzi un profesionist autentic și onest în politică?
 
-<!--more-->
-
 Instigarea la ură nu duce la lucruri bune și este sancționată inclusiv legal. Pentru unele categorii de oameni, sărim imediat să strigăm "discriminare", în timp ce altele ni se pare că merită acest tratament. Politicienii și cu cei bogați, urmați, după preferințe, de cei în funcții de conducere la stat sau privat, înalți funcționari sau preoți, sunt terfeliți fără sfială în neștire. Sunt jigniți cu ură și acuzați laolaltă, inclusiv cei despre care nu se știe mai nimic. Trecând peste nedreptatea individuală a oricărei acuzări prin generalizare, ne ajută abordarea asta cu ceva pe termen lung? Vrem oare să revenim la regimuri totalitare, în care categorii întregi de oameni au fost violent epurate?
+
+<!--more-->
 
 Este crucial să ne putem exprima liber și să ne criticăm politicienii. Generalizarea este un mecanism fundamental de învățare și nu trebuie să ne ferim principial de ea. Dar este oare util, pentru noi înșine, să acuzăm mereu grămadă, să ștergem identitatea individuală, să strigăm că "toți sunt la fel"?
 
