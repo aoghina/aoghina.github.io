@@ -13,7 +13,7 @@ I'm not a physicist, but physics fascinates me almost as much as some people see
 
 ### Time
 
-We measure time with clocks and think of it as something that is constantly flowing forward, together with us and everything we see. We found out just a few decades ago that it actually flows differently for different observers and that it's possible to fast-forward through time by moving faster or getting closer to heavy objects. But these are abstract notions that we hardly grasp, and they don't clarify what time is. We don't even know if it's continuous or discrete and it seems like, from outside, our universe would simply look static.
+We measure time with clocks and think of it as something that is constantly flowing forward, together with us and everything we see. We found out just a century ago that it actually flows differently for different observers and that it's possible to fast-forward through time by moving faster or getting closer to heavy objects. But these are abstract notions that we can hardly grasp, and they don't clarify what time is. We don't even know if it's continuous or discrete and it seems like, from outside, our universe would simply look static.
 
 ### Space
 
@@ -29,4 +29,4 @@ Matter makes up these objects around us, but we don't know what it itself is mad
 
 ---
 
-These are just some of the fundamental notions that we don't understand. Science is built on postulates, and although we get better at modeling the behavior of the world around us using complex, powerful formalisms, we still can't answer the most basic questions. But science doesn't even attempt to do that. Physicists say they're only addressing "how" questions, imagining and validating theories that describe and predict more accurately what we can observe. "Why" questions, they claim, have no definitive answer, as there will always be a certain base level of "why" where the answer can only be "because". These distinctions and limitations are nothing new, but many seem unaware of them, believing that science can eventually clarify everything.  
+These are just some of the fundamental notions that we just take for granted. Science is built on postulates, and although we get better at modeling the behavior of the world around us using complex, powerful formalisms, we still can't answer the most basic questions. But science doesn't even attempt to do that. Physicists say they're only addressing "how" questions, imagining and validating theories that describe and predict more accurately what we can observe. "Why" questions, they claim, have no definitive answer, as there will always be a certain base level of "why" where the answer can only be "because". These distinctions and limitations are nothing new, but many seem unaware of them, believing that science can eventually clarify everything.  
