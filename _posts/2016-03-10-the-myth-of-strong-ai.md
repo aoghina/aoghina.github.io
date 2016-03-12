@@ -9,8 +9,7 @@ lang: en
 
  <!--more-->
 
- ![The Writer - Jaquet Droz](/assets/the-writer-jaquet-droz.jpg "The Writer")
- <sup>Source: Wikimedia.org</sup>
+ ![The Writer - Jaquet Droz](/assets/the-writer.jpg "The Writer")
 
 Automata such as The Writer still enchant us today, and they must have seemed truly astonishing 240 years ago. Some people were frightened, thinking it is the work of witchcraft. But what makes these devices so fascinating? After all, they are just clockwork. There are I think three ingredients that trigger this reaction: (1) natural appearance (a boy), (2) human-like behavior (writing), and (3) lack of understanding of how it works.
 
