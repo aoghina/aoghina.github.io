@@ -26,7 +26,7 @@ It seems though that even experienced, responsible leaders, ruling in their own 
 [^1]: [Niedermayer–Hentig Expedition](https://en.wikipedia.org/wiki/Niedermayer%E2%80%93Hentig_Expedition)
 [^2]: [The Half Moon Camp](https://en.wikipedia.org/wiki/Halbmondlager)
 [^3]: [July Crisis](https://en.wikipedia.org/wiki/July_Crisis#Austria-Hungary_receives_German_support_and_settles_on_coercive_diplomacy_with_Serbia)
-[^4]: [United States in World War I: War declared](https://en.wikipedia.org/wiki/United_States_in_World_War_I#War_declared])
+[^4]: [United States in World War I: War declared](https://en.wikipedia.org/wiki/United_States_in_World_War_I#War_declared)
 [^5]: [Lenin returns to Russia from exile](http://www.history.com/this-day-in-history/lenin-returns-to-russia-from-exile)
 [^6]: [The Russian Revolution by Richard Pipes, page 411](https://books.google.nl/books?id=XtE54LuhFzEC&pg=PA411)
 [^7]: [Mass killings under Communist regimes](https://en.wikipedia.org/wiki/Mass_killings_under_Communist_regimes)
