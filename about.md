@@ -6,12 +6,16 @@ title: About
 ### Me
 
 * My name is Andrei Oghină, I'm from [Bucharest](https://www.facebook.com/BucurestiOptimist/) and live in [Amsterdam](https://www.facebook.com/iamsterdam/)
-* In high-school I implemented [this game](/public/static/tank-site/) in Pascal and made up this [song](/public/static/psychedelic-solo.wav)
 * I studied computer science at [Poli](http://acs.pub.ro/en/) and artificial intelligence at the [UvA](http://gss.uva.nl/future-msc-students/information-sciences/content26/artificial-intelligence.html)
+* You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteKid](https://www.tastekid.com/andrei)
+
+### Projects
+
+* In high-school I implemented [this game](/public/static/tank-site/) (and made up this [song](/public/static/psychedelic-solo.wav))
 * My master thesis was about [optimizing engagement in online news](/public/static/optimizing-engagement-in-online-news.pdf)
 * I founded [TasteKid](http://www.tastekid.com) in 2008 and I'm running it in my free time
-* This [Dutch housing market monitoring tool](http://propertrend.com) is one of my small projects
-* You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteKid](https://www.tastekid.com/andrei)
+* This [Dutch housing market monitoring tool](http://propertrend.com) is a small project
+* I set up a hip dysplasia awareness page (in Romanian): [Displazia de șold](http://displaziadesold.ro)
 
 ### This site
 
