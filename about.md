@@ -12,6 +12,7 @@ title: About
 ### Projects
 
 * In high-school I implemented [this game](/public/static/tank-site/) (and made up this [song](/public/static/psychedelic-solo.wav))
+* In my early twenties I kept [two anonymous blogs saved here](/public/static/harmony-within-chaos.pdf)
 * My master thesis was about [optimizing engagement in online news](/public/static/optimizing-engagement-in-online-news.pdf)
 * I founded [TasteKid](http://www.tastekid.com) in 2008 and I'm running it in my free time
 * This [Dutch housing market monitoring tool](http://propertrend.com) is a small project
