@@ -17,7 +17,7 @@ title: About
 * I founded [TasteKid](http://www.tastekid.com) in 2008 and I'm running it in my free time
 * This [Dutch housing market monitoring tool](http://propertrend.com) is a small project
 * I set up a hip dysplasia awareness page (in Romanian): [Displazia de șold](http://displaziadesold.ro)
-* I've also started working on a [prevention site called Do.Prevent](http://doprevent.com)
+* I've also started working on a [prevention site called DoPrevent](http://doprevent.com)
 
 ### This site
 
