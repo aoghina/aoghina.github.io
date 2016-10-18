@@ -12,7 +12,7 @@ There seems to be a widespread belief that automation destroys jobs, makes most 
  ![Frame-Breaking, 1812](/assets/frame-breaking-1812.jpg "Frame-Breaking, 1812")
  <sup>Machine breaking (1812)</sup>
 
-Today, with the help of inventions, we have more conveniences in our lives than even before. Some were once luxuries that few could afford, like foreign food, but most are so incredible that our ancestors could not even dream of, like airplanes, antibiotics and satellite navigation. And although most jobs available a century ago no longer exist, other jobs were created, and most people live much more comfortable lives compared to back then.
+Today, with the help of inventions, we have more conveniences in our lives than even before. Some were once luxuries that few could afford, like access to foreign food, but most are so incredible that our ancestors could not even dream of, like airplanes, antibiotics and satellite navigation. And although most jobs available a century ago no longer exist, other jobs were created, and most people live much more comfortable lives compared to back then.
 
 The fallacy that automation hurts society is the result of an incomplete analysis: a conclusion is drawn based solely on the effect that the people whose work is automated lose their jobs. But this is not all that happens. This incomplete view leads to a conclusion that doesn't match reality. When analyzing all implications, it is clear that automation creates, not destroys value, and that benefits the entire society.
 
