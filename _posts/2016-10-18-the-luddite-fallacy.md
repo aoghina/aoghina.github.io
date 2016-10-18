@@ -5,7 +5,7 @@ comments: True
 lang: en
 ---
 
-There seems to be a widespread belief that automation destroys jobs, makes most people poorer, increases income inequality and ultimately hurts both the economy and society. This belief is not new. The Luddites were 19th century textile workers that were destroying new machinery perceived to be a threat to their jobs. But it is perhaps surprising that after centuries of technological advances, we still fall for the Luddite fallacy - the conviction that innovation has harmful effects on employment.
+There seems to be a widespread belief that automation destroys jobs, makes most people poorer, increases income inequality and ultimately hurts both the economy and society. This belief is not new. The Luddites were 19th century textile workers that were destroying new machinery perceived to be a threat to their jobs. But it is perhaps surprising that after centuries of technological advancements, we still fall for the Luddite fallacy - the conviction that innovation has harmful effects on employment.
 
  <!--more-->
 
