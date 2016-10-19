@@ -45,6 +45,6 @@ Over time, many people have explained this fallacy in much clearer terms. Below 
 
 <sup>You can <a href="https://fee.org/resources/the-essential-frederic-bastiat/">download a short book with Frédéric Bastiat's essential texts for free here</a>.</sup>
 
-Automation benefits us by creating value, making products cheaper, increasing our comfort and freeing our time and resources for other useful endeavors, like doing medical research. But it can also cause a temporary inconvenience for the people whose work is automated. So is it worth it?
+Automation benefits us by creating value through increased productivity, making products cheaper and freeing our time and resources for other useful endeavors, like doing medical research. But it can also cause a temporary inconvenience for the people whose work is automated. So is it worth it?
 
 The question of worthiness asks whether the efforts people made across time were worth it for getting us where we are now. It is for everyone to decide if they want to pursue such a question. In doing so, one should realize that to oppose technological advancements is not to oppose unemployment, but to reject all the inventions that we benefit from today and to disagree with everyone who is in favor of comfort. But for whom comfort is of no value and prefer the harsh conditions of primitive life, changing jobs would not be an inconvenience, as they would retreat instead in the wilderness. Therefore, holding the position that automation is not worth it is contradictory.
