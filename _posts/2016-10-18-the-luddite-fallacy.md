@@ -25,7 +25,7 @@ Over time, many people have explained this fallacy in much clearer terms. Below 
 >
 >James B. had two francs which he had gained by two workmen; but it occurs to him, that an arrangement of ropes and weights might be made which would diminish the labour by half. Thus he obtains the same advantage, saves a franc, and discharges a workman.
 >
->He discharges a workman: this is that which is seen.
+>**He discharges a workman: this is that which is seen.**
 >
 >And seeing this only, it is said, "See how misery attends civilization; this is the way that liberty is fatal to equality. The human mind has made a conquest, and immediately a workman is cast into the gulf of pauperism. James B. may possibly employ the two workmen, but then he will give them only half their wages for they will compete with each other, and offer themselves at the lowest price. Thus the rich are always growing richer, and the poor, poorer. Society wants remodelling." A very fine conclusion, and worthy of the preamble.
 >
