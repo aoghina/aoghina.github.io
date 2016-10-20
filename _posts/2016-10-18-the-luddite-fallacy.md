@@ -5,7 +5,7 @@ comments: True
 lang: en
 ---
 
-There seems to be a widespread belief that automation destroys jobs, makes most people poorer, increases income inequality and ultimately hurts both the economy and society. This belief is not new. The Luddites were 19th century textile workers that were destroying new machinery perceived to be a threat to their jobs. But it is perhaps surprising that after centuries of technological advancements, we still fall for the Luddite fallacy - the conviction that innovation has harmful effects on employment.
+There seems to be a widespread belief that automation destroys jobs, makes most people poorer, increases income inequality and ultimately hurts both the economy and society. This belief is not new. The Luddites were 19th century textile workers that were destroying new machinery perceived to be a threat to their jobs. But it is perhaps surprising that after centuries of technological advancements, some still fall for the Luddite fallacy - the conviction that innovation has harmful effects on employment.
 
  <!--more-->
 
@@ -14,7 +14,7 @@ There seems to be a widespread belief that automation destroys jobs, makes most 
 
 Today, with the help of inventions, we have more conveniences in our lives than even before. Some were once luxuries that few could afford, like access to foreign food, but most are so incredible that our ancestors could not even dream of, like airplanes, antibiotics and satellite navigation. And although most jobs available a century ago no longer exist, other jobs were created, and most people live much more comfortable lives compared to back then.
 
-The fallacy that automation hurts society is the result of an incomplete analysis: a conclusion is drawn based solely on the effect that the people whose work is automated lose their jobs. But this is not all that happens. This incomplete view leads to a conclusion that doesn't match reality. When analyzing all implications, it is clear that automation creates, not destroys value, and that it benefits the entire society.
+The fallacy that automation hurts society is the result of an incomplete analysis: a conclusion is drawn based solely on the effect that the people whose work is automated lose their jobs. But what happens is much more than that. This incomplete view leads to a conclusion that doesn't match reality. When analyzing all implications, it becomes clear that automation creates, not destroys value, and that it benefits everyone.
 
 Over time, many people have explained this fallacy in much clearer terms. Below I am quoting the demonstration of Frédéric Bastiat, a French economist that lived in the 19th century. Even then, for him this process was very clear.
 
