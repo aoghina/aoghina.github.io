@@ -16,7 +16,7 @@ Today, with the help of inventions, we have more conveniences in our lives than 
 
 The fallacy that automation hurts society is the result of an incomplete analysis: a conclusion is drawn based solely on the effect that the people whose work is automated lose their jobs. But what happens is much more than that. This incomplete view leads to a conclusion that doesn't match reality. When analyzing all implications, it becomes clear that automation creates, not destroys value, and that it benefits everyone.
 
-Over time, many people have explained this fallacy in much clearer terms. Below I am quoting the demonstration of Frédéric Bastiat, a French economist that lived in the 19th century. Even then, for him this process was very clear.
+Over time, many people have explained this fallacy in eloquent terms. Below I am quoting the demonstration of Frédéric Bastiat, a French economist that lived in the 19th century. Even then, for him this process was very clear.
 
 
 >Harm Of False Premise
