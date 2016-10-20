@@ -45,7 +45,7 @@ Over time, many people have explained this fallacy in eloquent terms. Below I am
 
 <sup>You can <a href="https://fee.org/resources/the-essential-frederic-bastiat/">download a short book with Frédéric Bastiat's essential texts for free here</a>.</sup>
 
-Automation benefits us all by creating value through increased productivity, making products cheaper and freeing our time and resources for other useful endeavors, like doing medical research. But it can also cause a temporary inconvenience for the people whose work is automated. So a determined luddite could still ask: are these temporary inconveniences worth it the lasting benefits that we all gain?
+Automation benefits us all by creating value through increased productivity, making products cheaper and freeing our time and resources for other useful endeavors, like doing medical research. But it can also cause a temporary inconvenience for the people whose work is automated. So a determined Luddite could still ask: are these temporary inconveniences worth it for the lasting benefits that we all gain?
 
 The question of worthiness asks whether the efforts people made across time were worth it for getting us where we are now. It is for everyone to decide if they want to pursue such a question. In doing so, one needs to realize though that to oppose technological advancements means to reject all the past inventions that we benefit from today. And it doesn't mean to reject them only for one's self, but to advocate that everyone who is in favor of comfort should be forcefully prevented from achieving it.
 
