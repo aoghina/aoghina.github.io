@@ -1,8 +1,11 @@
 ---
 layout: post
-title: The good Left, the bad Right
+title: The Left is good, the Right is bad
 comments: True
 lang: en
+redirect_from:
+  - /2016/02/05/the-good-left-the-bad-right/
+  - /2016/02/05/the-sexy-left-the-ugly-right/
 ---
 
 The Left is good. It stands for progress and equality for all. The Left is youthful, kind and well-intended. It's rebellious, smart and cool. The Left doesn't believe in incentives, efficiency, free prices, supply and demand. Instead, it thinks the economy can be nicely planned. It fights discrimination, except against its critics and the upper classes, who deserve it. The Left promises fairness and social justice, while not judging anyone. It's intellectually and morally superior, and all the times it ends up controlled by ruthless, incompetent dictators are just unfortunate derailments from its bright path. The Left aims to eliminate social hierarchies, through violence if needed, because it doesn't believe performance has to be rewarded. Instead, it promises jobs and quality education, housing and healthcare for free, to everyone. It is a way towards a glorious future, "a brotherhood of man".
