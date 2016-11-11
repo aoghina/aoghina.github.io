@@ -15,6 +15,8 @@ Could it be that people find it wrong to force bakers to imprint messages they d
 
 Could it be that people thought that a colorful language might be less dangerous than heading further down the same path? Could it be that many didn't find this choice easy, but faced with these options, were so scared of the alternative that they considered the populist, egomaniac candidate promising them to face the powerful forces that push their nation in a disastrous direction to be the lesser evil? Could it be that the responsibility of this choice, even if it proves to take the country further down the road to serfdom, falls on those who brought people in the position to make it?
 
+![Could it be](/assets/questions.jpg "Could it be")
+
 Of course not. I know, the explanation is much simpler: Americans that vote for Republicans are stupid, bigoted and racist. Besides, Europeans have an impeccable track record of avoiding dictatorships that uniquely qualifies them to mock and lecture Americans on matters of freedom and democracy. It's not like the two world wars started in Europe. It's not like the communist ideology, developed and spread by educated, emancipated atheists, that caused 100 million victims and imprisoned large parts of the world for generations also emerged here. It's not like, each time, the backward Americans had to give their lives to extinguish the infernal fires started by the toxic love affair that many enlightened Europeans keep having with various forms of collectivism. Those are minor historical details we tend to forget when riding our high horse, armed with self-proclaimed superiority and shielded by ignorance.
 
 I would worry more about the future of Europe than about the future of the US.
