@@ -5,7 +5,7 @@ comments: True
 lang: en
 ---
 
-Without transistors, the world would look very different. There would be no internet, no personal computers, no pacemakers, no satellites and generally no electronic device as we know them. The transistor is perhaps the single most important invention of the 20th century. With their modest appearance and little known functionality, they impact almost every aspect of our lives.
+Without transistors, the world would look very different. There would be no internet, no personal computers, no pacemakers, no satellites and generally no electronic devices as we know them. The transistor is perhaps the single most important invention of the 20th century. With their modest appearance and little known functionality, they impact almost every aspect of our lives.
 
 <!--more-->
 
@@ -26,7 +26,7 @@ In digital circuits, which use binary signals, transistors are used as switches 
 ![Transistor AND gate](/assets/transistor-and-gate.gif "Transistor AND gate")
 <sup>AND gate where the OUT signal is the logical AND between the A and B input signals</sup>
 
-The transistor was not the first device capable of this behavior. Before it, vacuum tubes were used for similar purposes, achieved however through a different physical process. But vacuum tubes are bigger, less efficient, less reliable, less durable and more expensive than transistors. It was the invention of the small, cheap and efficient transistor at Bell Labs in 1947 by John Bardeen, William Shockley and Walter Brattain that revolutionized the field of electronics. It allowed the integration of ever-increasing numbers of tiny transistors into small integrated circuits and its wide range of applications.
+The transistor was not the first component capable of this behavior. Before it, vacuum tubes were used for similar purposes, achieved however through a different physical process. But vacuum tubes are bigger, less efficient, less reliable, less durable and more expensive than transistors. It was the invention of the small, cheap and efficient transistor at Bell Labs in 1947 by John Bardeen, William Shockley and Walter Brattain that revolutionized the field of electronics. It allowed the integration of ever-increasing numbers of tiny transistors into small integrated circuits and its wide range of applications.
 
 One of the first integrated circuit-based computers was the Apollo Guidance Computer, that made possible the moon landing. It had 4,100 integrated circuits and a total of around 12,000 transistors. The modern microprocessors have billions of them. These ubiquitously smart devices we casually carry around are capable of tremendous amounts of computation. For what we chose to use their capabilities is another matter.
 
