@@ -9,7 +9,7 @@ Without transistors, the world would look very different. There would be no inte
 
 <!--more-->
 
-As a child, I used to play with transistors, along with diodes, resistors, capacitors and the imposing, hot-tempered soldering iron. I knew they were more than toys, as my engineer father was using them for building and repairing all sorts of devices. It was much later though that I learned just how important these unimpressive three-legged oddities really are.
+As a child, I used to play with transistors, along with diodes, resistors, capacitors and the imposing, hot-tempered soldering iron. I knew they were more than toys, as my engineer father was using them for all sorts of magic. It was much later though that I learned just how important these unimpressive three-legged oddities really are.
 
 ![Electronic components](/assets/transistor-measurement.jpg "Transistor")
 <sup>Testing a transistor with a multimeter</sup>
