@@ -21,7 +21,7 @@ So what can it do that makes it so powerful? Two things: amplify electric curren
 
 One of the early applications of the amplification behavior was the portable radio, also known as a transistor radio. In it, transistors are used to amplify the faint signal received by the antenna to power a speaker. But this capability of amplifying a signal has a wide range of applications and is used in most electronic devices, from sound amplifiers and filters to metal and lie detectors.
 
-In digital circuits, which use binary signals, transistors are used as switches that can be either in an *on* or *off* state. They can be combined to build logical gates such as AND, OR and NOT, which are physical manifestations of Boolean functions (that operate with the values 0 and 1). These gates can then be cascaded to construct a physical model of Boolean logic and everything that can be expressed with it. That is what lies at the foundation of the digital microchip, the brain of any modern computer or "smart" device.
+In digital circuits, which use binary signals, transistors are used as switches that can be either in an *on* or *off* state. They can be combined to build logical gates such as AND, OR and NOT, which are physical manifestations of Boolean functions (that operate with the values 0 and 1). These gates can then be cascaded to construct a physical model of Boolean logic and everything that can be expressed with it. That is what lies at the foundation of the microchip, the brain of any modern computer or "smart" device.
 
 ![Transistor AND gate](/assets/transistor-and-gate.gif "Transistor AND gate")
 <sup>AND gate where the OUT signal is the logical AND between the A and B input signals</sup>
