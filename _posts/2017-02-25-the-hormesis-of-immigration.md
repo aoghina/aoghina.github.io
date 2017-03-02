@@ -5,7 +5,7 @@ comments: True
 lang: en
 ---
 
-Some claim immigration is good and should be unrestricted, others that it's bad and should be stopped. In think it's hormetic. As a Romanian living in the Netherlands, I'm currently an immigrant. And I believe that understanding the benefits as well as the risks of immigration is essential if we want to prevent repeating predictable tragedies in our beloved Europe.
+Some claim immigration is good and should be unrestricted, others that it's bad and should be stopped. I think it's hormetic. As a Romanian living in the Netherlands, I'm currently an immigrant. And I believe that understanding the benefits as well as the risks of immigration is essential if we want to prevent repeating predictable tragedies in our beloved Europe.
 
 <!--more-->
 
