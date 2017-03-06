@@ -9,7 +9,7 @@ Some claim immigration is good and should be unrestricted, others that it's bad 
 
 <!--more-->
 
-A phenomena is hormetic when it's beneficial at low doses but becomes harmful at higher ones. Hormesis applies to a wide range of processes, from physical effort, stress, hunger and the vaccine principle to sunlight or microbial exposure, alcohol consumption, taxation and nationalism. It also applies to immigration, which is favorable in certain conditions but can also trigger a sequence of events leading to destruction.
+A phenomenon is hormetic when it's beneficial at low doses but becomes harmful at higher ones. Hormesis applies to a wide range of processes, from physical effort, stress, hunger and the vaccine principle to sunlight or microbial exposure, alcohol consumption, taxation and nationalism. It also applies to immigration, which is favorable in certain conditions but can also trigger a sequence of events leading to destruction.
 
 ![Hormesis curve](/assets/hormesis-curve.jpg "Hormesis curve")
 <sup>Hormesis curve</sup>
