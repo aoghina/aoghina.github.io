@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Could it be?
+title: Why did he win the elections?
 comments: True
 lang: en
+redirect_from:
+  - /11/09/could-it-be/
 ---
 
 Could it be that people fear the centralization of power in the hands of those who like to impose their view of progress on others? Could it be that some dare to think lower taxes and deregulation generate economic growth better than ever-expanding government programs? Could it be that the more individuals and organizations are dependent on state funding, the greater the risk of economic collapse and dictatorship? Could it be that recent history shows how the marxist obsession with dividing people in oppressors and oppressed and seeing everywhere inequalities that need to be corrected using state power not only fuels social tensions and violence, but leads to disaster?

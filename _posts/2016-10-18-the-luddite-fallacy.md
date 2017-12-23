@@ -5,18 +5,18 @@ comments: True
 lang: en
 ---
 
-There seems to be a widespread belief that automation destroys jobs, makes most people poorer, increases income inequality and ultimately hurts both the economy and society. This belief is not new. The Luddites were 19th century textile workers that were destroying new machinery perceived to be a threat to their jobs. But it is perhaps surprising that after centuries of technological advancements, some still fall for the Luddite fallacy - the conviction that innovation has harmful effects on employment.
+There seems to be a widespread belief that automation destroys jobs, makes most people poorer, increases income inequality, and ultimately hurts both the economy and society. This belief is not new. The Luddites were 19th-century textile workers who destroyed new machinery they perceived as a threat to their jobs. But it is perhaps surprising that after centuries of technological advancements, some still fall for the Luddite fallacy---the conviction that innovation has harmful effects on employment.
 
  <!--more-->
 
  ![Frame-Breaking, 1812](/assets/frame-breaking-1812.jpg "Frame-Breaking, 1812")
  <sup>Machine breaking (1812)</sup>
 
-Today, with the help of inventions, we have more conveniences in our lives than ever before. Some were once luxuries that few could afford, like access to foreign food, but most are so incredible that our ancestors could not even dream of, like airplanes, antibiotics and satellite navigation. And although most jobs available a century ago no longer exist, other jobs were created, and most people live much more comfortable lives compared to back then.
+Today, with the help of inventions, we have more conveniences in our lives than ever before. Some were once luxuries that few could afford, like access to foreign food, but most are so incredible that our ancestors could not even dream of them, like airplanes, antibiotics, and satellite navigation. And although most jobs available a century ago no longer exist, other jobs were created, and most people live much more comfortable lives compared to back then.
 
-The fallacy that automation hurts society is the result of an incomplete analysis: a conclusion is drawn based solely on the effect that the people whose work is automated lose their jobs. Missing all other consequences leads to a conclusion that does not correspond to reality. When analyzing all implications, it becomes clear that automation creates, not destroys value, doesn't harm employment and benefits everyone.
+The fallacy that automation hurts society is the result of an incomplete analysis: a conclusion  based solely on the belief that the people whose work is automated lose their jobs. Missing all other consequences leads to a conclusion that does not correspond to reality. When analyzing all implications, it becomes clear that automation creates, not destroys value, doesn't harm employment, and benefits everyone.
 
-Over time, many people have explained this fallacy in eloquent terms. Below I am quoting the demonstration of Frédéric Bastiat, a French economist that lived in the 19th century. Even then, for him this process was very clear.
+Over time, many people have explained this fallacy in eloquent terms. Below I am quoting the demonstration of Frédéric Bastiat, a French economist who lived in the 19th century. Even then, for him this process was very clear.
 
 
 >Harm Of False Premise
@@ -45,8 +45,8 @@ Over time, many people have explained this fallacy in eloquent terms. Below I am
 
 <sup>You can <a href="https://fee.org/resources/the-essential-frederic-bastiat/">download a short book with Frédéric Bastiat's essential texts for free here</a>.</sup>
 
-Automation benefits us all by creating value through increased productivity, making products cheaper and freeing our time and resources for other useful endeavors, like doing medical research. But it can also cause a temporary inconvenience for the people whose work is automated. So a determined Luddite could still ask: are these temporary inconveniences worth it for the lasting benefits that we all gain?
+Automation benefits us all by creating value through increased productivity, making products less expensively, and freeing our time and resources for other useful endeavors, like doing medical research. But it can also cause a temporary inconvenience for the people whose work is automated. So a determined Luddite could still ask: are these temporary inconveniences worth it for the lasting benefits that we all gain?
 
-The question of worthiness asks whether the efforts people made across time were worth it for getting us where we are now. It is for everyone to decide if they want to pursue such a question. In doing so, one needs to realize though that to oppose technological advancements means to reject all the past inventions that we benefit from today. And it doesn't mean to reject them only for one's self, but to advocate that everyone who is in favor of comfort should be forcefully prevented from achieving it.
+The question of worthiness asks whether the efforts people made across time were worth it for getting us where we are now. It is for everyone to decide if they want to pursue such a question. In doing so, one needs to realize, though, that to oppose technological advancements means to reject all the past inventions that we benefit from today. And it doesn't mean to reject them only for one's self, but to advocate that everyone who is in favor of comfort should be forcefully prevented from achieving it.
 
-For those who really put no value on comfort and prefer the harsh conditions of primitive life, changing jobs would not be an inconvenience, as they would retreat instead in the wilderness. It is not, however, from some remote cave that these moralists are preaching against innovation. In fact, they usually do so using the most innovative communication tools available. This makes their position either ignorant or hypocritical, and in any case contradictory.
+For those who really put no value on comfort and prefer the harsh conditions of primitive life, changing jobs would not be an inconvenience, as they would instead retreat  to the wilderness. It is not, however, from some remote cave that these moralists are preaching against innovation. In fact, they usually do so using the most innovative communication tools available. This makes their position either ignorant or hypocritical, and in any case contradictory.
