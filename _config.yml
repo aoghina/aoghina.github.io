@@ -4,7 +4,7 @@ permalink:           pretty
 
 # Setup
 title:               Andrei Oghină
-url:                 http://andrei.oghina.com
+url:                 https://andrei.oghina.com
 paginate:            10
 baseurl:             ""
 excerpt_separator:   "<!--more-->"
@@ -19,7 +19,7 @@ sass:
 # About/contact
 author:
   name:              Andrei Oghină
-  url:               http://andrei.oghina.com
+  url:               https://andrei.oghina.com
   email:             andrei@oghina.com
 
 # Custom vars
