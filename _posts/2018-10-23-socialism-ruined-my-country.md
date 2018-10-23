@@ -20,7 +20,7 @@ Before World War II, Romania, my native country, had a growing economy, competen
 In this article, I try to explain why socialism can never achieve its stated goals, why it is deceptive and immoral, and how, despite its wonderful promises, it always ends up bringing poverty, depriving people of freedom, and hurting the individuals it claims to help. It is my attempt to counter the pervasive left-wing ideas that persist to this day and are inculcated in young minds  by academia, culture, and media in the Western world.
 
 1. [What is socialism?](#whatis)
-2. [Socialism's track record: poverty, oppression, and genocide](#trackrecord)
+2. [Socialism's track record](#trackrecord)
 3. [How socialism leads to totalitarianism](#totalitarianism)
 4. [Socialism and Nazism](#nazism)
 5. [Socialism vs. communism](#communism)
@@ -49,7 +49,7 @@ A small degree of wealth redistribution can help those who cannot provide for th
 Socialists promise free things. How they finance those things is simply with other people's earnings. They frame their policies as promoting "equality," "solidarity," or "social justice" to legitimize their votes-for-stolen-money proposition, and many fall for this deception. Once understood, it's easy to see how their "solutions" pave the way to poverty and totalitarianism.
 
 <a name="trackrecord"></a>
-## Socialism's track record: poverty, oppression, and genocide
+## Socialism's track record
 
 ![Socialism kills](/assets/socialism/socialism-kills.jpg "Socialism kills")
 
