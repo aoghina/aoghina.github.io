@@ -14,9 +14,9 @@ title: About
 * In high-school I implemented [this game](/public/static/tank-site/) (and made up this [song](/public/static/psychedelic-solo.wav))
 * In my early twenties I kept [two anonymous blogs saved here](/public/static/harmony-within-chaos.pdf)
 * My master thesis was about [optimizing engagement in online news](/public/static/optimizing-engagement-in-online-news.pdf)
-* I founded [TasteDive](http://tastedive.com) in 2008 and I'm running it in my free time
+* I founded [TasteDive](http://tastedive.com) in 2009 and I'm running it in my free time
 * I set up a hip dysplasia awareness page (in Romanian): [Displazia de șold](http://displaziadesold.ro)
-* I've also started working on a [prevention site called DoPrevent](http://doprevent.com)
+* I've also set up a [prevention site called DoPrevent](http://doprevent.com)
 
 ### This site
 
