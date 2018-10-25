@@ -160,7 +160,7 @@ Socialism also fosters the deceptive, yet convenient mindset that the state is r
 <a name="support"></a>
 ## Why so many people still support the Left
 
-![Rothbard on economic ignorance](/assets/socialism/rothbard-economic-ignorance.jpg "Rothbard on economic ignorance")
+![Horowitz on economic ignorance](/assets/socialism/david-horowitz-on-socialism.jpg "Horowitz on economic ignorance")
 
 Many advocate socialist policies simply due to ignorance. They want to do good and are tricked into believing that the simple, beneficent-sounding solution proposed by the Left would achieve their purpose, increase people's living standards, and reduce suffering. They don't consider all the long-term consequences of the measures they support. They're either unaware of the colossal past failures of those solutions or are deceived that what they support is somehow different, when in reality it is not.
 
