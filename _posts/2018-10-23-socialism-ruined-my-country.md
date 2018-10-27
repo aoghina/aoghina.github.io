@@ -32,7 +32,7 @@ In this article, I try to explain why socialism can never achieve its stated goa
 11. [Why so many people still support the Left](#support)
 12. [The Nordics](#thenordics)
 13. [Socialists in disguise](#disguise)
-14. [How to address injustices and reduce poverty](#howto)
+14. [Real progress and how to reduce poverty](#realprogress)
 15. [Why am I writing this](#why)
 
 <a name="whatis"></a>
@@ -184,26 +184,26 @@ After all the tragedies of the past century,  there is still some hard-learned s
 
 It always boils down to taking people's freedom and earnings to finance a grand vision of what society should really look like. This vision may vary: some favor a rapid industrialization, as was the case in Romania. Some force a return to an agrarian past, like the Cambodian Khmer Rouge. Nowadays, new goals are pushed forward: silencing "hate speech", enforcing "diversity", promoting a relativistic worldview to children in schools. While goals differ, the means are the same: control is taken away from the individual to impose, through force and social engineering, what these groups like to call "progress"—changes in the direction favored by them.
 
-<a name="howto"></a>
-## How to address injustices and reduce poverty
+<a name="realprogress"></a>
+## Real progress and how to reduce poverty
 
 ![Hazlitt on capitalism](/assets/socialism/henry-hazlitt-capitalism.jpg "Hazlitt on capitalism")
 
 Those who genuinely care about the poor and the oppressed should support the three pillars of Western civilization: individual freedom (including economic freedom, so capitalism), the rule of law, and Christianity; and remember that all that is needed for the triumph of evil is that good people do nothing. Dramatic as it may sound, if we don't speak up against those who viciously attack these pillars, we become accomplices to our civilization's collapse.
 
-Economic liberalization policies in China, India, the Eastern Bloc and other places are responsible for the spectacular 80% decrease in extreme poverty around the world in the past few decades. It is the biggest gain in living standards in history, and it was achieved by simply lessening the state grip on the economy, leaving entrepreneurs motivated by success to flourish and generate wealth.
+Economic liberalization policies in China, India, the Eastern Bloc and other places are responsible for the spectacular 80% decrease in extreme poverty around the world in the past few decades. It is the biggest gain in living standards in history, and it was achieved by simply lessening the state grip on the economy, leaving entrepreneurs motivated by success to flourish and generate wealth. That's real progress.
 
 Who knows how many lives could have been saved, how much suffering could have been prevented if all those countries hadn’t implemented socialism in the first place?
 
-The rule of law, which provides predictability and balance (as opposed to ruling based solely on the whim of those in power), together with economic freedom, do wonders when it comes to lifting people out of poverty. Other individual rights give us the dignity to make our own choices and manifest without fear of persecution. But freedom and the prosperity it generates make it essential to adhere to a moral system that promotes personal responsibility, love and compassion while condemning violence, theft, abuse, and waste.
+The rule of law, which provides predictability and balance (as opposed to ruling based solely on the whim of those in power), together with economic freedom, do wonders when it comes to lifting people out of poverty. Other individual rights give us the dignity to make our own choices and manifest without fear of persecution. But freedom and the naturally unequal prosperity it generates make it essential to adhere to a moral system that promotes personal responsibility, love and kindness while condemning violence, theft, abuse, and waste.
 
 We all have a belief system, a set of moral postulates that shape our view of the world and our behavior. The Western civilization is rooted in Christianity, which has been instrumental in its development towards the state we find ourselves in today. Other parts of the world are based on other belief systems, which reflect in the way they evolved. Judeo-Christian values are embedded in our way of life, in our legal system, our freedoms, our moral code.
 
-Few realize the separation of church and state, a fundamental trait of Western civilization, is also a direct consequence of Christian thought, as Jesus said "Render unto Caesar the things that are Caesar's, and unto God the things that are God's". In other systems, either religion fully controls politics, or politics becomes dogmatic and political leaders turn into false gods (as it always happens with communism).
+Few realize the separation of church and state, an essential ingredient of our civilization's success, is also a consequence of Christian thought, as Jesus said "Render unto Caesar the things that are Caesar's, and unto God the things that are God's". In other systems, either religion controls politics, or politics is dogmatic and totalitarian as the political leaders become false gods (the case with communism).
 
 We owe our civilization to Christian educators who introduced literacy to the masses, Christian legislators who enshrined the protection of human life and individual liberty in fundamental laws, Christian scientists whose discoveries shaped modern life, like Wilhelm Röntgen, Michael Faraday, Werner Heisenberg, or sister Mary Keller. The conflict between Christian faith and science is just another false narrative.
 
-"But Jesus was a socialist!" is what some dare say, after all the persecutions and murders of Christian clergymen and believers under socialist regimes. No, Jesus was not a socialist. He emphasized the futility of material possessions and advocated generosity, humility, and sacrifice. But in no way did He instigate stealing or preach envy, hate, and violence. Instead, He encouraged us to help others. Christians advocate voluntary generosity, while socialists advocate "forced generosity"—being generous with other people's money, which is not generosity at all.
+"But Jesus was a socialist!" is what some dare say, after all the persecutions and murders of Christian clergymen and believers under socialist regimes. No, that is false. Jesus emphasized the futility of material possessions and advocated generosity, humility, and sacrifice. In no way did He instigate stealing or preach envy or hate. Instead, He encouraged us to help others. Christians advocate voluntary generosity, while socialists advocate "forced generosity"—being generous with other people's money, which is not generosity at all.
 
 ![Solzhenitsyn: men have forgotten God](/assets/socialism/socialism-solzhenitsyn.png "Solzhenitsyn: men have forgotten God")
 
