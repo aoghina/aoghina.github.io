@@ -77,13 +77,13 @@ In socialism, individual freedom dies, and liberal democracy can never exist exc
 
 While Nazism is the classic example of a dangerous ideology, socialism is presented in popular culture as the kind and compassionate alternative. The strong ties between Nazism and socialism are shamelessly covered up.
 
-Nazism stands for national-socialism. Hitler's party was called the National Socialist German Workers' Party, and it shared many values and policies with the socialist platforms that continue to be so innocently promoted: greater state control of the economy, prices and wages, anti-capitalism, attacks on Christianity (there were dedicated clergy barracks at the Dachau concentration camp) and the sacrifice of individual freedom in the name of the "collective interest."
+Nazism stands for national-socialism. Hitler's party was called the National Socialist German Workers' Party, and it shared many values and policies with the socialist platforms that continue to be so innocently promoted today: greater state control of the economy, prices and wages, anti-capitalism, attacks on Christianity (there were dedicated clergy barracks at the Dachau concentration camp) and the sacrifice of individual freedom in the name of the "collective interest."
 
-"We are a workers’ party because we see in the coming battle between finance and labor the beginning and the end of the structure of the twentieth century. We are on the side of labor and against finance." If that sounds familiar, it's because these ideas continue to be reiterated by socialists today. But those are the words of Joseph Goebbels, the head of the Ministry of Public Enlightenment and Propaganda of Nazi Germany and one of Hitler's closest associates.
+"We are a workers' party because we see in the coming battle between finance and labor the beginning and the end of the structure of the twentieth century. We are on the side of labor and against finance." If that sounds familiar, it's because these ideas continue to be reiterated by socialists today. But those are the words of Joseph Goebbels, the head of the Ministry of Public Enlightenment and Propaganda of Nazi Germany and one of Hitler's closest associates.
 
-Fewer still know that the Nazis' antisemitism was also rooted in anti-capitalism. Again, Goebbels made this very clear: "As socialists we are opponents of the Jews because we see in the Hebrews the incarnation of capitalism, of the misuse of the nation’s goods." For those who are aware of these things, the similarities with the discourse of some present day politicians are striking. Antisemitism based on anti-capitalism is alive and well.
+Fewer still know that the Nazis' antisemitism was also rooted in anti-capitalism. Again, Goebbels made this very clear: "As socialists we are opponents of the Jews because we see in the Hebrews the incarnation of capitalism, of the misuse of the nation's goods." For those who are aware of these things, the similarities with the discourse of some present day politicians are striking. Antisemitism based on anti-capitalism is alive and well.
 
-It is this hatred of economic freedom (capitalism), individual liberty, and success that fueled the growth of both Nazism and communism—two sides of the same collectivist mentality. It is this hatred that is responsible for the horrors that followed. It is this hatred, envy, and craving for others' property that fuel the support for the same old socialist discourse today.
+It is this hatred of economic freedom (capitalism), individual liberty, and envy of success that fueled the growth of both Nazism and communism—two sides of the same collectivist mentality. It is this hatred and envy that is responsible for the horrors that followed. It is this hatred and envy that boost the support for the same old deceiving socialist discourse today.
 
 <a name="communism"></a>
 ## Socialism vs. communism
@@ -193,7 +193,7 @@ Those who genuinely care about the poor and the oppressed should support the thr
 
 Economic liberalization policies in China, India, the Eastern Bloc and other places are responsible for the spectacular 80% decrease in extreme poverty around the world in the past few decades. It is the biggest gain in living standards in history, and it was achieved by simply lessening the state grip on the economy, leaving entrepreneurs motivated by success to flourish and generate wealth. That's the real progress.
 
-Who knows how many lives could have been saved, how much suffering could have been prevented if all those countries hadn’t implemented socialism in the first place?
+Who knows how many lives could have been saved, how much suffering could have been prevented if all those countries hadn't implemented socialism in the first place?
 
 The rule of law, which provides predictability and balance (as opposed to ruling based solely on the whim of those in power), together with economic freedom, do wonders for reducing poverty. Other individual rights give us the dignity to make choices and express ideas without fear of persecution. But freedom and the naturally unequal prosperity it generates make it essential to adhere to a moral system that promotes personal responsibility, love and kindness while condemning violence, theft, abuse, and waste.
 
