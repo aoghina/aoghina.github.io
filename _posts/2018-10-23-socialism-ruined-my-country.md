@@ -101,9 +101,9 @@ Communist countries implemented socialist policies, but never reached the utopia
 
 ![Lenin on atheism](/assets/socialism/lenin-atheism.jpg "Lenin on atheism")
 
-It is no coincidence that most socialists are fanatical atheists. Wherever they got to power, socialists marginalized, persecuted, and often tortured and killed clergymen. Socialist "intellectuals" reject God so they can place themselves in His position. They envision what the world should look like and proceed to impose their vision of "paradise on Earth." It is no coincidence that socialist leaders develop a personality cult and that their portraits often end up on the walls of buildings and classrooms.
+It is no coincidence that most socialists are fanatical atheists. Wherever they got to power, socialists marginalized, persecuted, and often tortured and killed clergymen. Socialist "intellectuals" reject God so they can place themselves in His position. They envision what the world should look like and proceed to impose their vision of "paradise on Earth." It is no coincidence that socialist leaders foster a personality cult and that their portraits often end up on the walls of buildings and classrooms.
 
-Time-proven values and individual freedom are just annoying roadblocks for those convinced that the blueprint for Paradise is in their pocket. Without a fixed moral system to discourage them, abuse, persecution, stealing, and even murder become not only permissible but necessary tools for a noble cause. Their supreme authority, which is the Party and the State (they become one in communist countries) provides the power to enforce their profound social changes. The end result is invariably a living hell. But they keep trying, again and again, convinced that the next time it will end differently.
+Time-proven values and individual freedom are just annoying roadblocks for those convinced the blueprint for "social progress" is in their pocket. Without a fixed moral system to discourage them, abuse, persecution, stealing, and even murder become not only permissible but necessary tools for a noble cause. Their supreme authority, which is the Party and the State (they become one in communist countries) provides the power to enforce their profound social changes. The end result is invariably a living hell. But they keep trying, again and again, insisting that the next time it will end differently.
 
 Most socialists claim to have no religion, but they are more dogmatic than religious people. Diversity, equality of outcomes, internationalism—these are unquestionable ideals. Capital, private property, patriotism, faith in God, social hierarchies, gender differences, and objective truth are evil and need to be attacked. Question their tenets and you will be treated like a true apostate.
 
@@ -112,7 +112,7 @@ Most socialists claim to have no religion, but they are more dogmatic than relig
 
 ![Friedman on judging policies](/assets/socialism/friedman-policies-results.jpg "Friedman on judging policies")
 
-When someone proposes simple solutions to persistent problems, remember there is no such thing as a free lunch. When judging a policy, consider all consequences, not just the first, most obvious one.
+When someone proposes simple solutions to persistent problems, remember there is no such thing as a free lunch. When judging a policy, all consequences have to be considered, not just the first, most obvious one.
 
 "Free" education and "free" healthcare sound great. But who pays, and how much do they cost? How is a state-run system held accountable? How are costs kept in check? How can quality increase if competition is suppressed? How do we avoid indoctrination in a state-run education system?
 
@@ -189,7 +189,7 @@ It always boils down to taking people's freedom and earnings to finance a grand 
 
 ![Hazlitt on capitalism](/assets/socialism/henry-hazlitt-capitalism.jpg "Hazlitt on capitalism")
 
-Those who genuinely care about the poor and the oppressed should support the three pillars of Western civilization: individual freedom (including economic freedom, so capitalism), the rule of law, and Christianity; and remember that all that is needed for the triumph of evil is that good people do nothing. Dramatic as it may sound, if we don't speak up against those who viciously attack these pillars, we become accomplices to our civilization's collapse.
+Those who truly care about the poor and the oppressed should support the three pillars of Western civilization: individual freedom (including economic freedom, so capitalism), the rule of law, and Christianity; and remember that all that is needed for the triumph of evil is that good people do nothing. Dramatic as it may sound, by not opposing those who viciously attack these pillars, we become accomplices to our civilization's collapse.
 
 Economic liberalization policies in China, India, the Eastern Bloc and other places are responsible for the spectacular 80% decrease in extreme poverty around the world in the past few decades. It is the biggest gain in living standards in history, and it was achieved by simply lessening the state grip on the economy, leaving entrepreneurs motivated by success to flourish and generate wealth. That's the real progress.
 
