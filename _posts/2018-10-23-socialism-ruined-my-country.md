@@ -105,7 +105,7 @@ It is no coincidence that most socialists are fanatical atheists. Wherever they 
 
 Time-proven values and individual freedom are just annoying roadblocks for those convinced the blueprint for "social progress" is in their pocket. Without a fixed moral system to discourage them, abuse, persecution, stealing, and even murder become not only permissible but necessary tools for a noble cause. Their supreme authority, which is the Party and the State (they become one in communist countries) provides the power to enforce their profound social changes. The end result is invariably a living hell. But they keep trying, again and again, insisting that the next time it will end differently.
 
-Most socialists claim to have no religion, but they are more dogmatic than religious people. Equality of outcomes, ethnic and cultural (but not ideologic) diversity, internationalism—these are unquestionable ideals. Capital, private property, patriotism, faith in God, social and cultural hierarchies, gender differences, and objective truth are evil and need to be attacked. Question their tenets and you will be treated like a true apostate.
+Most socialists claim to have no religion, but they are more dogmatic than religious people. Equality of outcomes, ethnic and cultural (but not ideological) diversity, internationalism—these are unquestionable ideals. Capital, private property, patriotism, faith in God, social and cultural hierarchies, gender differences, and objective truth are evil and need to be attacked. Question their tenets and you will be treated like a true apostate.
 
 <a name="poverty"></a>
 ## How socialism leads to poverty
