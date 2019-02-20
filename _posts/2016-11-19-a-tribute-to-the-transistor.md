@@ -28,7 +28,7 @@ In digital circuits, which use binary signals, transistors are used as switches 
 
 The transistor was not the first component capable of this behavior. Before it, vacuum tubes were used for similar aims, achieved, however, through a different physical process. But vacuum tubes are bigger, less efficient, less reliable, less durable, and more expensive than transistors. It was the invention of the small, cheap, and efficient transistor at Bell Labs in 1947 by John Bardeen, William Shockley, and Walter Brattain that revolutionized the field of electronics. It allowed the integration of ever-increasing numbers of transistors into small microchips, paving the way for all advances that followed.
 
-One of the first integrated circuit-based computers was the Apollo Guidance Computer, which made possible the moon landing. It had 4,100 integrated circuits and a total of around 12,000 transistors. The modern microprocessors have billions of them. The ubiquitous devices we casually carry around today can perform tremendous amounts of computation. For what we choose to use their impressive capabilities is may be another matter worth pondering.
+One of the first integrated circuit-based computers was the Apollo Guidance Computer, which made possible the moon landing. It had 4,100 integrated circuits and a total of around 12,000 transistors. The modern microprocessors have billions of them. The ubiquitous devices we casually carry around today can perform tremendous amounts of computation. For what we choose to use their impressive capabilities is  food for thought.
 
 ![Apollo guidance computer](/assets/transistor-apollo-guidance-computer.jpg "Apollo guidance computer")
 <sup>Apollo Guidance Computer and its Display&Keyboard (DSKY)</sup>
