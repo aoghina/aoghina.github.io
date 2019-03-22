@@ -19,7 +19,7 @@ title: About
 
 ### This site
 
-* On this site I'm sharing some of my thoughts
+* On [this site](https://andrei.oghina.com) I'm sharing some of my thoughts
 * It's built for [Jekyll](http://jekyllrb.com) and hosted for free on [GitHub Pages](https://pages.github.com)
 * I set it up using [Poole](https://github.com/poole/poole) and [this nice how-to article](http://joshualande.com/jekyll-github-pages-poole)
 * I configured it with [Atom](http://atom.io), an amazing code editor
