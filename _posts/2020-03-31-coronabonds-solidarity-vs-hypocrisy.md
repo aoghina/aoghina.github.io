@@ -9,7 +9,7 @@ Some Italian and Spanish politicians are very angry and harshly accuse The Nethe
 
 <!--more-->
 
-Over the past 7 years, the Netherlands managed to reduce its debt-to-GDP ratio from 67% to 52%. But reducing debt is not cool in most Southern European countries, where austerity is often a curse word. Over the same interval, Italy increased its debt from 132% to 135% of GDP, to a whopping €2 trillion. Spain increased it from 93% to 98%.
+Over the past 7 years, the Netherlands managed to reduce its debt-to-GDP ratio from 67% to 52%. But reducing debt is not cool in most Southern European countries, where austerity is often a curse word. Over the same interval, Italy increased its debt from 129% to 135% of GDP, to a whopping €2 trillion. Spain increased it from 93% to 98%.
 
 ![Italian public debt to GDP ratio](/assets/coronabonds/italy-debt.png "Italian public debt to GDP ratio")
 <sup>Italian public debt to GDP ratio</sup>
