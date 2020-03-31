@@ -5,7 +5,7 @@ comments: True
 lang: en
 ---
 
-Some Italian and Spanish politicians are very angry and harshly accuse The Netherlands of "not showing solidarity", by opposing the issuing of Eurobonds (or Coronabonds), which would effectively make the Dutch taxpayer pay their huge debts. Well, well... Let's look at some numbers.
+Some Italian and Spanish politicians are very angry and harshly accuse The Netherlands of "not showing solidarity", by opposing the issuing of Eurobonds (or Coronabonds), which would effectively make the Dutch taxpayer cover their huge debts. Well, well... Let's look at some numbers.
 
 <!--more-->
 
