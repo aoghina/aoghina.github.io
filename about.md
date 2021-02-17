@@ -5,7 +5,6 @@ title: About
 
 ### Me
 
-* My name is Andrei Oghină, I'm from [Bucharest](https://www.facebook.com/BucurestiOptimist/) and live in [Amsterdam](https://www.facebook.com/iamsterdam/)
 * I studied computer science at [Poli](http://acs.pub.ro/en/) and artificial intelligence at the [UvA](http://www.uva.nl)
 * You can find out more about me on [LinkedIn](https://nl.linkedin.com/in/andreioghina), [Facebook](https://www.facebook.com/andrei.oghina) and [TasteDive](https://tastedive.com/andrei)
 
