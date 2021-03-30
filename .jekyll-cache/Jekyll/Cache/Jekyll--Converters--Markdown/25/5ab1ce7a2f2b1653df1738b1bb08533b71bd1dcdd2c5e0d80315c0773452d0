@@ -1,0 +1,28 @@
+I"�<h3 id="me">Me</h3>
+
+<ul>
+  <li>I studied computer science at <a href="http://acs.pub.ro/en/">Poli</a> and artificial intelligence at the <a href="http://www.uva.nl">UvA</a></li>
+  <li>You can find out more about me on <a href="https://nl.linkedin.com/in/andreioghina">LinkedIn</a>, <a href="https://www.facebook.com/andrei.oghina">Facebook</a> and <a href="https://tastedive.com/andrei">TasteDive</a></li>
+</ul>
+
+<h3 id="projects">Projects</h3>
+
+<ul>
+  <li>In high-school I implemented <a href="/public/static/tank-site/">this game</a> (and made up this <a href="/public/static/psychedelic-solo.wav">song</a>)</li>
+  <li>In my early twenties I kept <a href="/public/static/harmony-within-chaos.pdf">two anonymous blogs saved here</a></li>
+  <li>My master thesis was about <a href="/public/static/optimizing-engagement-in-online-news.pdf">optimizing engagement in online news</a></li>
+  <li>I founded <a href="http://tastedive.com">TasteDive</a> in 2009</li>
+  <li>I set up a hip dysplasia awareness page (in Romanian): <a href="http://displaziadesold.ro">Displazia de șold</a></li>
+</ul>
+
+<h3 id="this-site">This site</h3>
+
+<ul>
+  <li>On <a href="https://andrei.oghina.com">this site</a> I’m sharing some of my thoughts</li>
+  <li>It’s built for <a href="http://jekyllrb.com">Jekyll</a> and hosted for free on <a href="https://pages.github.com">GitHub Pages</a></li>
+  <li>I set it up using <a href="https://github.com/poole/poole">Poole</a> and <a href="http://joshualande.com/jekyll-github-pages-poole">this nice how-to article</a></li>
+  <li>I configured it with <a href="http://atom.io">Atom</a>, an amazing code editor</li>
+</ul>
+
+<p>Thanks for reading!</p>
+:ET
