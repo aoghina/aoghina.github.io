@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Intelligent Lockdown: a Romanian's View on the Pandemic Response in The Netherlands"
+title: "The intelligent lockdown"
 comments: True
 lang: en
 ---
