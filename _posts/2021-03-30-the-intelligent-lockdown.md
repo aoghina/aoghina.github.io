@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The intelligent lockdown"
+title: "The intelligent lockdown: a story of deadly delays, misguided trust, and lack of accountability"
 comments: True
 lang: en
 ---
@@ -11,7 +11,7 @@ When the first Covid-19 cases emerged in Europe a year ago, I considered myself 
 
 Then I quickly became horrified.  
 
-At first, I was unnerved by the downplaying of the pandemic, similar to the approach in Sweden and the UK; the "no need to panic or change your behavior" announcements. While the Dutch authorities eventually changed their "herd-immunity strategy" (without admitting they were wrong), there has been a long series of false statements, harmful official advice, and a complete lack of accountability.
+At first, I was unnerved by the downplaying of the pandemic, similar to the approach in Sweden and the UK; the "no need to panic and change your behavior" announcements. While the Dutch authorities eventually changed their "herd-immunity strategy" (without admitting they were wrong), there has been a long series of false statements, harmful official advice, and a complete lack of accountability.
 
 A detailed timeline of the Dutch authorities' erroneous statements and disastrous (in)actions can be found here: [containmentnu.nl/articles/timeline](https://www.containmentnu.nl/articles/timeline?lang=en).
 
