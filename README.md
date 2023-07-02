@@ -9,6 +9,8 @@ cd blog
 git clone git@github.com:aoghina/aoghina.github.io.git .
 ```
 
+Install Ruby:
+
 `brew install ruby`
 
 `nano ~/.zshrc` - add:
@@ -25,13 +27,20 @@ fi
 
 (open new terminal tab)
 
+Check version:
+
 `ruby --version` (should be > 3.2)
 
-`gem install jekyll --user-install`
+Install jekyll and related:
 
 ```
+gem install jekyll --user-install
 gem install jekyll-redirect-from --user-install
 gem install jekyll-paginate --user-install
 ```
 
+Start it:
+
 `jekyll serve`
+
+Then the blog should be available at: http://127.0.0.1:4000/
