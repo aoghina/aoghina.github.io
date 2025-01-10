@@ -68,7 +68,7 @@ Science and religion address different aspects of human experience. They are not
 
 *The God of the Bible is also the God of the genome. He can be worshiped in the cathedral or in the laboratory. …I found there is a wonderful harmony in the complementary truths of science and faith.*
 
-All scientific theories are based on foundational assumptions — postulates accepted without proof. This means that science, while objective in method, rests on principles that cannot themselves be objectively proven. Consequently, atheism doesn’t truly exist in practice. Even if someone rejects belief in the Christian God, they still operate according to certain principles, values, and models, or “gods” that shape their thoughts, behaviors, and worldview.
+All scientific theories are based on foundational assumptions — postulates accepted without proof. This means that science, while objective in method, rests on principles that cannot themselves be objectively proven. Consequently, atheism doesn’t truly exist in practice. Even if someone rejects belief in the Christian God, they still operate according to certain principles, values, and models, or “gods” that shape their worldview and behavior.
 
 Western civilization, in particular, owes much of its progress to Christian principles. Christian educators and legislators promoted literacy for the masses, and established laws protecting human life and individual liberty. Christian scientists, like Wilhelm Röntgen, Michael Faraday, Werner Heisenberg, and Sister Mary Keller, made groundbreaking discoveries that laid the foundation for modern technology and medicine. Their work illustrates that the supposed conflict between Christian faith and science is a false narrative.
 
