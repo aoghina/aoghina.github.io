@@ -6,11 +6,11 @@ lang: en
 ---
 
 
-How can a rational person believe in a “man in the sky”? How can modern people, with all our scientific knowledge, still believe in miracles, resurrection, and all the other incredible stories of religion without scientific proof? Why pray, follow religious teachings, or dedicate your life to an elusive God instead of simply enjoying yourself as much as possible?
+How can a rational person believe in a “man in the sky”? How can modern people, with all our scientific knowledge, still believe in miracles, resurrection, and all the other incredible stories of religion without scientific proof?
+
+Why pray, follow religious teachings, or dedicate your life to an elusive God instead of simply enjoying yourself as much as possible?
 
 <!--more-->
-
-These are questions we’ve all asked ourselves.
 
 The easy, common answer instilled in us today is simple: we shouldn't. Religion is outdated. Its purpose, we are told, is to control people and explain things we couldn’t explain before scientific discoveries. It has no place in modern society—it's merely a vestige of the past. Even worse, religion can contribute to conflicts. Some even suggest we should work toward eradicating it to make the world a better place... "forgetting" that a godless “better world” was what communists aimed to create a century ago, resulting in the deaths of millions and the destruction of entire nations.
 
