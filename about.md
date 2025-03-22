@@ -14,7 +14,8 @@ title: About
 * In high-school I implemented [this game](/public/static/tank-site/) (and made up this [song](/public/static/psychedelic-solo.wav))
 * In my early twenties I kept [two anonymous blogs saved here](/public/static/harmony-within-chaos.pdf)
 * My master thesis was about [optimizing engagement in online news](/public/static/optimizing-engagement-in-online-news.pdf)
-* I founded [TasteDive](http://tastedive.com) around 2010 (it was bought by Qloo in 2018)
+* I founded [TasteDive](https://tastedive.com) around 2010 (it was aquired by Qloo in 2018)
+* I started a new AI-powered project called [CouchVibe](https://couchvibe.com)
 * I've also worked for SoftHost, Hyves, TravelBird, Qloo, and Polarsteps
 
 ### This site
