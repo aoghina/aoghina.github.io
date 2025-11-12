@@ -132,7 +132,7 @@ Numerous studies have highlighted the positive impact of faith on mental and emo
 
 Christian values of compassion, forgiveness, and humility are pillars upon which individuals can build their character, fostering integrity and empathy in their interactions with others. This contributes to a more just and equitable society, with respect for human dignity, individual freedom, and the common good - in a natural, voluntary, and altruistic way, not in the abusive, forceful, misguided way ("being generous with other people's money") that socialism claimed it can reach the same goals, and failed miserably. 
 
-Central to Christian teachings is the call to love one's neighbor and serve those in need. This ethos of altruism and compassion inspires countless individuals and organizations to engage in charitable endeavors and philanthropic initiatives. From feeding the hungry and sheltering the homeless, to advocating for justice, Christians around the world have always made efforts to alleviate suffering and promote human flourishing. And, as it's often overlooked today, Christianity played a major role in the abolition of slavery.
+Central to Christian teachings is the call to love one's neighbor and serve those in need. This ethos of altruism and compassion has inspired countless individuals and organizations to engage in charitable endeavors and philanthropic initiatives. From feeding the hungry and sheltering the homeless, to advocating for justice, Christians around the world have always made efforts to alleviate suffering and promote human flourishing. And, as it's often overlooked today, Christianity played a major role in the abolition of slavery.
 
 ---
 
