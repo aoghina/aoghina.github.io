@@ -17,25 +17,13 @@
 // Designed, built, and released under MIT license by @mdo. Learn more at
 // https://github.com/poole/poole.
 
-// TODO: swith to using use instead of import when Github Pages will support it
-// @use "base";
-// @use "type";
-// @use "syntax";
-// @use "code";
-// @use "layout";
-// @use "masthead";
-// @use "posts";
-// @use "pagination";
-// @use "message";
-
-
-@import "base";
-@import "type";
-@import "syntax";
-@import "code";
-@import "layout";
-@import "masthead";
-@import "posts";
-@import "pagination";
-@import "message";
+@use "base" as *;
+@use "type" as *;
+@use "syntax" as *;
+@use "code" as *;
+@use "layout" as *;
+@use "masthead" as *;
+@use "posts" as *;
+@use "pagination" as *;
+@use "message" as *;
 
