@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Famtree</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="top">
+      <div class="brand">
+        <p class="brand-name">Famtree</p>
+        <p class="brand-sub">arbore genealogic</p>
+      </div>
+      <label class="focus-label">
+        <span>Focus</span>
+        <select id="focus-select"></select>
+      </label>
+      <div class="toolbar">
+        <button type="button" id="btn-fit" title="Fit all">Fit</button>
+        <button type="button" id="btn-reset" title="Clear focus">All</button>
+      </div>
+    </header>
+
+    <main class="stage" id="stage">
+      <svg id="tree" xmlns="http://www.w3.org/2000/svg"></svg>
+      <p id="data-source" class="data-source" hidden></p>
+      <div class="hint" id="hint">Scroll to zoom · drag to pan · click a person</div>
+    </main>
+
+    <aside class="panel" id="panel" hidden>
+      <button type="button" class="panel-close" id="panel-close" aria-label="Close">×</button>
+      <img id="panel-photo" class="panel-photo" alt="" hidden />
+      <h2 id="panel-name"></h2>
+      <p class="panel-nick" id="panel-nick"></p>
+      <p class="panel-dates" id="panel-dates"></p>
+      <p class="panel-bio" id="panel-bio" hidden></p>
+      <dl class="panel-meta" id="panel-meta"></dl>
+      <p class="panel-notes" id="panel-notes"></p>
+    </aside>
+  </div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,34 @@
+id	display_name	nickname	birth_date	death_date	mother_id	father_id	partner_id	partner_status	notes	photo_url	bio
+elia-vranciu	Elia Vranciu		1926	2012			gheorghe-vranciu				
+gheorghe-vranciu	Gheorghe Vranciu		1930	1992			elia-vranciu				
+maria-angela-oghina	Dr. Maria-Angela Oghină		06.09.1924	11.05.2006			bogdan-oghina				
+bogdan-oghina	Dr. Bogdan Oghină		02.11.1921	13.10.2001			maria-angela-oghina				
+tania-oghina	Tania Oghină	Vranciu	27.01.1959		elia-vranciu	gheorghe-vranciu	serban-gabriel-oghina				
+serban-gabriel-oghina	Șerban-Gabriel Oghină		28.01.1958		maria-angela-oghina	bogdan-oghina	tania-oghina				
+bogdan-mihail-oghina	Bogdan-Mihail Oghină		28.01.1958		maria-angela-oghina	bogdan-oghina	oltea-oghina				
+oltea-oghina	Oltea Oghină						bogdan-mihail-oghina				
+grigore-oghina	Dr. Grigore Oghină	Guți			maria-angela-oghina	bogdan-oghina	gabriela-oghina	separated	also Gregoire		
+gabriela-oghina	Gabriela Oghină	Gabi					grigore-oghina	separated			
+andrei-oghina	Andrei Oghină		28.11.1983		tania-oghina	serban-gabriel-oghina	irina-oghina				
+felix-oghina	Felix Oghină		07.12.1990		tania-oghina	serban-gabriel-oghina			birth year uncertain		
+silvia-oghina	Dr. Silvia Oghină				gabriela-oghina	grigore-oghina					
+oscar	Oscar					silvia-oghina			surname unknown		
+ana-oghina	Ana Oghină				oltea-oghina	bogdan-mihail-oghina					
+suzana-oghina	Suzana Oghină				oltea-oghina	bogdan-mihail-oghina					
+constantin-zachia	Constantin Zachia						mihaela-zachia				
+mihaela-zachia	Mihaela Zachia	Mimi	01.10.194?				constantin-zachia		née Zlatea		
+dragos-zachia-zlatea	Dragoș-Corneliu Zachia-Zlatea		12.11.1958		mihaela-zachia	constantin-zachia	gabriela-ioana-zachia-zlatea				
+bogdan-zachia-zlatea	Bogdan Zachia-Zlatea		04.02.1962		mihaela-zachia	constantin-zachia					
+simona-zachia-zlatea	Simona Zachia-Zlatea		10.10.19?						link to parents unclear		
+ion-stoica	Ion Stoica						maria-stoica				
+maria-stoica	Maria Stoica		15.08				ion-stoica		née Burtea; year incomplete		
+gabriela-ioana-zachia-zlatea	Gabriela-Ioana Zachia-Zlatea		19.01.1959		maria-stoica	ion-stoica	dragos-zachia-zlatea		née Stoica		
+gheorghe-stoica	Gheorghe Stoica	Gogu	06.07.1957		maria-stoica	ion-stoica	ana-stoica		brother of Gabriela-Ioana; birth uncertain		
+ana-stoica	Ana Stoica		16.01.1967				gheorghe-stoica		birth uncertain		
+andrei-stoica	Andrei Stoica				ana-stoica	gheorghe-stoica			cousin of Irina		
+ioana-stoica	Ioana Stoica				ana-stoica	gheorghe-stoica			cousin of Irina		
+irina-oghina	Irina Oghină		16.11.1984		gabriela-ioana-zachia-zlatea	dragos-zachia-zlatea	andrei-oghina		née Zachia-Zlatea		
+ioana-zachia-zlatea	Ioana Zachia-Zlatea		04.10.1982		gabriela-ioana-zachia-zlatea	dragos-zachia-zlatea	radu-haiduc				
+radu-haiduc	Radu Haiduc		18.01.1981				ioana-zachia-zlatea				
+daria-oghina	Daria Oghină		27.01.2016		irina-oghina	andrei-oghina					
+david-oghina	David Oghină		03.07.2020		irina-oghina	andrei-oghina					
