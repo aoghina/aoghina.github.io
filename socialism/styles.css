@@ -1,0 +1,360 @@
+:root {
+  --bg: #eef2f5;
+  --ink: #0f1419;
+  --muted: #5f6f7e;
+  --line: rgba(15, 20, 25, 0.1);
+  --accent: #0e7490;
+  --accent-ink: #0a5a70;
+  --surface: rgba(255, 255, 255, 0.7);
+  --font-display: "Syne", system-ui, sans-serif;
+  --font-ui: "Manrope", system-ui, sans-serif;
+  --pad: clamp(1rem, 4.5vw, 1.75rem);
+  --max: 40rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  color: var(--ink);
+  font-family: var(--font-ui);
+  font-size: 1.05rem;
+  line-height: 1.6;
+  background:
+    radial-gradient(ellipse 100% 70% at 0% -10%, #c9dde8 0%, transparent 55%),
+    radial-gradient(ellipse 80% 55% at 100% 0%, #d5e4df 0%, transparent 50%),
+    var(--bg);
+}
+
+.shell {
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+}
+
+.top {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.9rem var(--pad);
+  background: rgba(238, 242, 245, 0.8);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  flex: 1;
+  min-width: 0;
+}
+
+.back {
+  display: none;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1px solid var(--line);
+  border-radius: 0.65rem;
+  background: var(--surface);
+  color: var(--ink);
+  font-size: 1.15rem;
+  line-height: 2.5rem;
+  text-align: center;
+  text-decoration: none;
+  transition: border-color 0.15s ease, transform 0.15s ease;
+}
+
+.back:hover {
+  border-color: var(--accent);
+  transform: translateX(-1px);
+}
+
+.brand-name {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(1.15rem, 4vw, 1.4rem);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+}
+
+.brand-sub {
+  margin: 0.2rem 0 0;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 500;
+}
+
+main {
+  flex: 1;
+  width: min(100%, calc(var(--max) + 2 * var(--pad)));
+  margin: 0 auto;
+  padding: 0 var(--pad) 3.5rem;
+}
+
+.home-hero {
+  margin: 1rem calc(var(--pad) * -1) 1.35rem;
+  overflow: hidden;
+  background: #c5ced6;
+  animation: fade-up 0.55s ease both;
+}
+
+.home-hero img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: center;
+}
+
+.hero-caption {
+  margin: 0;
+  padding: 0.55rem 0.85rem 0.7rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+
+.lede {
+  margin: 0 0 0.65rem;
+  width: 100%;
+  max-width: none;
+  font-family: var(--font-display);
+  font-size: clamp(1.55rem, 5vw, 2rem);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.035em;
+  animation: fade-up 0.55s ease 0.06s both;
+}
+
+.support {
+  margin: 0 0 1.35rem;
+  width: 100%;
+  max-width: none;
+  color: var(--muted);
+  font-size: 1.02rem;
+  line-height: 1.55;
+  animation: fade-up 0.55s ease 0.12s both;
+}
+
+.toc {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  animation: fade-up 0.55s ease 0.24s both;
+}
+
+.toc-item {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+  gap: 0.85rem;
+  width: 100%;
+  padding: 0.95rem 0.85rem;
+  border: 1px solid transparent;
+  border-radius: 0.85rem;
+  background: transparent;
+  color: inherit;
+  text-align: left;
+  text-decoration: none;
+  font: inherit;
+  transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.toc-item:hover,
+.toc-item:focus-visible {
+  background: var(--surface);
+  border-color: var(--line);
+  outline: none;
+  transform: translateY(-1px);
+}
+
+.toc-num {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: -0.02em;
+}
+
+.toc-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.18rem;
+  min-width: 0;
+}
+
+.toc-title {
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.015em;
+}
+
+.toc-teaser {
+  font-size: 0.86rem;
+  color: var(--muted);
+  line-height: 1.35;
+}
+
+.toc-go {
+  color: var(--muted);
+  font-size: 1.1rem;
+  transition: color 0.15s ease, transform 0.15s ease;
+}
+
+.toc-item:hover .toc-go {
+  color: var(--accent);
+  transform: translateX(2px);
+}
+
+.source {
+  margin: 2rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.source a {
+  color: var(--accent-ink);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+}
+
+.reader {
+  display: none;
+  padding-top: 1.15rem;
+  animation: fade-up 0.3s ease;
+}
+
+.reader:target {
+  display: block;
+}
+
+body:has(.reader:target) .home {
+  display: none;
+}
+
+body:has(.reader:target) .back {
+  display: block;
+}
+
+body:has(.reader:target) .brand-sub {
+  visibility: hidden;
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-img {
+  margin: 0 0 1.25rem;
+  border-radius: 0.85rem;
+  overflow: hidden;
+  background: #d5dde4;
+}
+
+.hero-img img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.reader h1 {
+  margin: 0 0 1rem;
+  font-family: var(--font-display);
+  font-size: clamp(1.7rem, 6.5vw, 2.25rem);
+  font-weight: 700;
+  letter-spacing: -0.04em;
+  line-height: 1.1;
+}
+
+.body p {
+  margin: 0 0 1rem;
+}
+
+.body p:last-child {
+  margin-bottom: 0;
+}
+
+.pager {
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.6rem;
+}
+
+.pager a {
+  display: block;
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.95rem;
+  font-weight: 500;
+  padding: 0.85rem 0.9rem;
+  text-align: center;
+  text-decoration: none;
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.pager a:hover {
+  border-color: var(--accent);
+}
+
+.pager-muted {
+  opacity: 0.45;
+}
+
+.pager-next {
+  background: var(--ink) !important;
+  color: #f4f7f9 !important;
+  border-color: var(--ink) !important;
+}
+
+.pager-next:hover {
+  background: #243040 !important;
+}
+
+@media (min-width: 640px) {
+  .home-hero {
+    margin: 1.25rem 0 1.5rem;
+    border-radius: 1rem;
+  }
+
+  .toc-item {
+    padding: 1.05rem 1rem;
+  }
+}
+
+.reader:target {
+  scroll-margin-top: 4.5rem;
+}
+
+#home:target {
+  scroll-margin-top: 4.5rem;
+}
