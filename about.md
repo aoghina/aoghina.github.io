@@ -17,6 +17,7 @@ title: About
 * My master thesis was about [optimizing engagement in online news](/public/static/optimizing-engagement-in-online-news.pdf)
 * I founded [TasteDive](https://tastedive.com) around 2010 (it was aquired by Qloo in 2018) ([my profile](https://tastedive.com/andrei))
 * I created various (AI-powered) personal projects, such as [CouchVibe](https://couchvibe.com) and [WitSparks](https://witsparks.com)
+* Based on my first-hand experience, and learnings, I made a short site on [why socialism fails](/why-socialism-fails/)
 * I've also worked at Hyves, TravelBird, Telegraaf Media Group, Qloo, SoftHost
 
 ### This site
