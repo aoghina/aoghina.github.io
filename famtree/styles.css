@@ -152,34 +152,31 @@ body {
   opacity: 0;
 }
 
-.data-source {
+.stage-foot {
   position: absolute;
   left: 0.85rem;
   bottom: 0.85rem;
+  display: flex;
+  gap: 0.55rem;
   margin: 0;
   padding: 0.3rem 0.65rem;
   font-size: 0.68rem;
   color: var(--muted);
   background: rgba(26, 36, 32, 0.72);
   border-radius: 6px;
-  max-width: min(320px, calc(100vw - 2rem));
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
-.data-source a {
+.stage-foot p {
+  margin: 0;
+}
+
+.stage-foot a {
   color: var(--accent);
   text-decoration: none;
 }
 
-.data-source a:hover {
+.stage-foot a:hover {
   text-decoration: underline;
-}
-
-.data-source.memories {
-  left: auto;
-  right: 0.85rem;
 }
 
 .person {
