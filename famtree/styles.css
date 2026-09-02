@@ -177,6 +177,11 @@ body {
   text-decoration: underline;
 }
 
+.data-source.memories {
+  left: auto;
+  right: 0.85rem;
+}
+
 .person {
   cursor: pointer;
 }
