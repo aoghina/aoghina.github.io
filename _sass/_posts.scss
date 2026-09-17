@@ -19,10 +19,19 @@
   margin-top: 0;
 }
 
+.post-subtitle {
+  margin: -0.25rem 0 0.75rem;
+  font-size: 1.15rem;
+  font-weight: 400;
+  font-style: italic;
+  line-height: 1.35;
+  color: #6a6a6a;
+}
+
 // Meta data line below post title
 .post-date {
   display: block;
-  margin-top: -.5rem;
+  margin-top: -.25rem;
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
@@ -64,4 +73,13 @@
       }
     }
   }
+}
+
+
+.post-excerpt > :last-child {
+  margin-bottom: 0;
+}
+
+.post-more {
+  margin-top: 0.75rem;
 }

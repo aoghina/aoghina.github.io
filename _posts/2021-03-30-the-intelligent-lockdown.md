@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "The intelligent lockdown: a story of deadly delays, misguided trust, and lack of accountability"
+title: 'The "Intelligent" Lockdown'
+subtitle: A story of deadly delays, misguided trust, and lack of accountability
 comments: True
 lang: en
 ---

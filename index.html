@@ -14,7 +14,10 @@ title: Home
 
     <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
 
-    <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}<a href="{{ post.url }}">{% if post.lang == 'ro' %}Citește mai departe{% else %}Continue reading{% endif %}...</a></p>
+    <div class="post-excerpt">
+      {{ post.excerpt }}
+      <p class="post-more"><a href="{{ post.url }}">{% if post.lang == 'ro' %}Citește mai departe{% else %}Continue reading{% endif %}...</a></p>
+    </div>
   </article>
   <hr>
   {% endfor %}

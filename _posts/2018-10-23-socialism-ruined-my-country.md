@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Socialism ruined my country, don't let it ruin yours too
+title: Why socialism fails
+subtitle: Socialism ruined my country, don't let it ruin yours too
 comments: True
 lang: en
 ---
+
+<p class="message">There's a shorter section-by-section version on the <a href="/why-socialism-fails/">Why Socialism Fails</a> mini-site.</p>
 
 Socialism still appeals to many today, despite the dozens of countries it has ruined over the past century. The promise of a better world, with less suffering and more fairness, is attractive to any decent, kind human being. Mesmerized by wonderful visions of prosperity and equality, it's easy to overlook the hidden implications of socialist policies and disregard the warnings of those whose countries went through the same deception before.
 

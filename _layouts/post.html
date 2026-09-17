@@ -4,6 +4,9 @@ layout: default
 
 <article class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  {% if page.subtitle %}
+  <p class="post-subtitle">{{ page.subtitle }}</p>
+  {% endif %}
   <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
   {{ content }}
 </article>
