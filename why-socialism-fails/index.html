@@ -319,6 +319,7 @@
   <script>
     (function () {
       var points = Array.prototype.slice.call(document.querySelectorAll("details.point"));
+      var ignoreToggle = false;
 
       function headerOffset() {
         var header = document.querySelector(".top");
@@ -338,31 +339,34 @@
         });
       }
 
+      // Keep the section header on-screen when closing a tall previous section,
+      // then ease up to the start (Next button and tapping another summary).
+      function settleOpen(el, shouldScroll) {
+        var anchor = el.getBoundingClientRect().top;
+        closeOthers(el);
+        window.scrollBy({ top: el.getBoundingClientRect().top - anchor, behavior: "instant" });
+        history.replaceState(null, "", "#" + el.id);
+        if (shouldScroll) scrollToPoint(el);
+      }
+
       function openPoint(id, shouldScroll) {
         var el = document.getElementById(id);
         if (!el || el.tagName !== "DETAILS") return;
-        // Remember where the target header sits before layout changes
-        var anchor = el.getBoundingClientRect().top;
+        ignoreToggle = true;
         el.open = true;
-        closeOthers(el);
-        // Cancel the layout shift from closing the previous section (otherwise
-        // the viewport sits at the end of the new section, then scrolls up)
-        window.scrollBy({ top: el.getBoundingClientRect().top - anchor, behavior: "instant" });
-        history.replaceState(null, "", "#" + id);
-        if (shouldScroll) scrollToPoint(el);
+        settleOpen(el, shouldScroll);
+        ignoreToggle = false;
       }
 
       points.forEach(function (el) {
         el.addEventListener("toggle", function () {
-          if (!el.open) return;
-          closeOthers(el);
-          history.replaceState(null, "", "#" + el.id);
+          if (ignoreToggle || !el.open) return;
+          settleOpen(el, true);
         });
       });
 
       document.querySelectorAll("[data-goto]").forEach(function (btn) {
         btn.addEventListener("click", function () {
-          // Blur first: otherwise the browser scrolls to keep the dying button in view
           btn.blur();
           openPoint(btn.getAttribute("data-goto"), true);
         });
