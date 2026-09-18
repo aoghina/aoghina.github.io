@@ -325,6 +325,32 @@ main {
   color: var(--muted);
 }
 
+.afterword {
+  margin: 1.75rem 0 0;
+  padding: 1.15rem 0 0;
+  border-top: 1px solid var(--line);
+}
+
+.afterword p {
+  margin: 0 0 0.75rem;
+  color: var(--ink);
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.afterword p:last-child {
+  margin-bottom: 0;
+}
+
+.afterword-close {
+  margin-top: 1rem !important;
+  font-family: var(--font-display);
+  font-size: 1.05rem !important;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 1.4 !important;
+}
+
 .source a {
   color: var(--ink);
   text-decoration-thickness: 1px;
