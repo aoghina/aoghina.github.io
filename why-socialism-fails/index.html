@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700;12..96,800&family=Sora:wght@400;500;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=9" />
+  <link rel="stylesheet" href="styles.css?v=10" />
 </head>
 <body>
   <div class="shell">
@@ -319,66 +319,55 @@
   <script>
     (function () {
       var points = Array.prototype.slice.call(document.querySelectorAll("details.point"));
-      var ignoreToggle = false;
+      var quiet = false;
 
       function headerOffset() {
         var header = document.querySelector(".top");
         return header ? header.offsetHeight + 8 : 8;
       }
 
-      function closeOthers(except) {
-        points.forEach(function (p) {
-          if (p !== except) p.open = false;
-        });
-      }
-
-      function scrollToPoint(el) {
-        requestAnimationFrame(function () {
-          var top = el.getBoundingClientRect().top + window.pageYOffset - headerOffset();
-          window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
-        });
-      }
-
-      // Keep the section header on-screen when closing a tall previous section,
-      // then ease up to the start (Next button and tapping another summary).
-      function settleOpen(el, shouldScroll) {
-        var anchor = el.getBoundingClientRect().top;
-        closeOthers(el);
-        window.scrollBy({ top: el.getBoundingClientRect().top - anchor, behavior: "instant" });
-        history.replaceState(null, "", "#" + el.id);
-        if (shouldScroll) scrollToPoint(el);
-      }
-
-      function openPoint(id, shouldScroll) {
+      // One path for Next/Previous, summary taps, and hash links:
+      // set open state, then instantly pin the header under the sticky bar
+      // (before paint — no "end then start" animation).
+      function goTo(id) {
         var el = document.getElementById(id);
         if (!el || el.tagName !== "DETAILS") return;
-        ignoreToggle = true;
-        el.open = true;
-        settleOpen(el, shouldScroll);
-        ignoreToggle = false;
+
+        quiet = true;
+        points.forEach(function (p) {
+          p.open = p === el;
+        });
+        quiet = false;
+
+        var top = Math.max(
+          0,
+          el.getBoundingClientRect().top + window.pageYOffset - headerOffset()
+        );
+        window.scrollTo({ top: top, behavior: "instant" });
+        history.replaceState(null, "", "#" + el.id);
       }
 
       points.forEach(function (el) {
         el.addEventListener("toggle", function () {
-          if (ignoreToggle || !el.open) return;
-          settleOpen(el, true);
+          if (quiet || !el.open) return;
+          goTo(el.id);
         });
       });
 
       document.querySelectorAll("[data-goto]").forEach(function (btn) {
         btn.addEventListener("click", function () {
           btn.blur();
-          openPoint(btn.getAttribute("data-goto"), true);
+          goTo(btn.getAttribute("data-goto"));
         });
       });
 
       window.addEventListener("hashchange", function () {
         var id = location.hash.slice(1);
-        if (id) openPoint(id, true);
+        if (id) goTo(id);
       });
 
       var initial = location.hash.slice(1);
-      if (initial) openPoint(initial, true);
+      if (initial) goTo(initial);
     })();
   </script>
 </body>
