@@ -8,15 +8,16 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,600;12..96,700;12..96,800&family=Sora:wght@400;500;600&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=10" />
+  <link rel="stylesheet" href="styles.css?v=12" />
 </head>
 <body>
   <div class="shell">
     <header class="top">
-      <div class="brand">
-        <p class="brand-name">Why Socialism Fails</p>
-        <p class="brand-sub">Explained in 10 short points</p>
-      </div>
+      <a class="brand" href="/why-socialism-fails/" id="home-link">
+        <span class="brand-name">Why Socialism Fails</span>
+        <span class="brand-sub">Explained in 10 short points</span>
+      </a>
+      <a class="site-link" href="/">Home</a>
     </header>
 
     <main>
@@ -326,9 +327,16 @@
         return header ? header.offsetHeight + 8 : 8;
       }
 
-      // One path for Next/Previous, summary taps, and hash links:
-      // set open state, then instantly pin the header under the sticky bar
-      // (before paint — no "end then start" animation).
+      function goHome() {
+        quiet = true;
+        points.forEach(function (p) {
+          p.open = false;
+        });
+        quiet = false;
+        history.replaceState(null, "", location.pathname);
+        window.scrollTo({ top: 0, behavior: "instant" });
+      }
+
       function goTo(id) {
         var el = document.getElementById(id);
         if (!el || el.tagName !== "DETAILS") return;
@@ -347,6 +355,11 @@
         history.replaceState(null, "", "#" + el.id);
       }
 
+      document.getElementById("home-link").addEventListener("click", function (e) {
+        e.preventDefault();
+        goHome();
+      });
+
       points.forEach(function (el) {
         el.addEventListener("toggle", function () {
           if (quiet || !el.open) return;
@@ -364,6 +377,7 @@
       window.addEventListener("hashchange", function () {
         var id = location.hash.slice(1);
         if (id) goTo(id);
+        else goHome();
       });
 
       var initial = location.hash.slice(1);
