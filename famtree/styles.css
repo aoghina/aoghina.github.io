@@ -296,18 +296,75 @@ body {
   cursor: pointer;
 }
 
+.panel-photo-btn {
+  display: block;
+  width: 100%;
+  margin: 0 0 1rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: zoom-in;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.panel-photo-btn[hidden] {
+  display: none;
+}
+
 .panel-photo {
   display: block;
   width: 100%;
   max-height: 200px;
   object-fit: cover;
   border-radius: 10px;
-  margin-bottom: 1rem;
   background: var(--card);
+  pointer-events: none;
 }
 
-.panel-photo[hidden] {
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.25rem;
+  background: rgba(12, 16, 14, 0.88);
+  cursor: zoom-out;
+}
+
+.lightbox[hidden] {
   display: none;
+}
+
+.lightbox-photo {
+  display: block;
+  max-width: min(96vw, 920px);
+  max-height: 92vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.45);
+  cursor: default;
+}
+
+.lightbox-close {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.85rem;
+  border: 0;
+  background: transparent;
+  color: #f2efe6;
+  font-size: 1.75rem;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0.85;
+}
+
+.lightbox-close:hover {
+  opacity: 1;
 }
 
 .panel-bio {

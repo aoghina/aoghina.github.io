@@ -354,14 +354,16 @@ function layout(people, units) {
     maxRight = Math.max(maxRight, x);
   }
 
-  // Second pass: pull children under parents (barycenter), a few iterations
+  // Second pass: barycenter — children under parents, parents over children
   for (let iter = 0; iter < 8; iter++) {
-    for (const g of [...unitsByGen.keys()].sort((a, b) => a - b)) {
-      if (g === 0) continue;
+    const gens = [...unitsByGen.keys()].sort((a, b) => a - b);
+    // Alternate top-down / bottom-up so roots can follow their kids
+    const order = iter % 2 === 0 ? gens : [...gens].reverse();
+    for (const g of order) {
       const list = unitsByGen.get(g);
       const targets = list.map((unit) => ({
         unit,
-        target: parentMidX(unit, people),
+        target: idealX(unit, people),
         w: unitWidth(unit),
       }));
 
@@ -429,15 +431,7 @@ function placeUnit(unit, people, x, y) {
 }
 
 function scoreUnit(unit, people) {
-  const xs = [];
-  for (const id of unit.ids) {
-    const p = people.get(id);
-    for (const pid of [p.mother_id, p.father_id]) {
-      if (pid && people.has(pid)) xs.push(people.get(pid).x + CARD_W / 2);
-    }
-  }
-  if (!xs.length) return unit.ids[0].charCodeAt(0);
-  return xs.reduce((a, b) => a + b, 0) / xs.length;
+  return idealX(unit, people);
 }
 
 function parentMidX(unit, people) {
@@ -445,11 +439,39 @@ function parentMidX(unit, people) {
   for (const id of unit.ids) {
     const p = people.get(id);
     for (const pid of [p.mother_id, p.father_id]) {
-      if (pid && people.has(pid)) xs.push(people.get(pid).x + CARD_W / 2);
+      if (!pid || !people.has(pid)) continue;
+      const x = people.get(pid).x;
+      if (typeof x === "number") xs.push(x + CARD_W / 2);
     }
   }
-  if (!xs.length) return people.get(unit.ids[0]).x;
+  if (!xs.length) return null;
   return xs.reduce((a, b) => a + b, 0) / xs.length;
+}
+
+function childMidX(unit, people) {
+  const xs = [];
+  for (const id of unit.ids) {
+    const p = people.get(id);
+    for (const cid of p.children) {
+      if (!people.has(cid)) continue;
+      const x = people.get(cid).x;
+      if (typeof x === "number") xs.push(x + CARD_W / 2);
+    }
+  }
+  if (!xs.length) return null;
+  return xs.reduce((a, b) => a + b, 0) / xs.length;
+}
+
+/** Prefer under parents; if none (top row), sit over children. */
+function idealX(unit, people) {
+  const parents = parentMidX(unit, people);
+  const children = childMidX(unit, people);
+  if (parents != null && children != null) return (parents + children) / 2;
+  if (parents != null) return parents;
+  if (children != null) return children;
+  const p = people.get(unit.ids[0]);
+  if (typeof p.x === "number") return p.x + unitWidth(unit) / 2;
+  return unit.ids[0].charCodeAt(0);
 }
 
 function shortName(name) {
@@ -644,13 +666,14 @@ function showPanel(id, people) {
 
   document.getElementById("panel-dates").textContent = lifespan(p) || "Dates unknown";
 
+  const photoBtn = document.getElementById("panel-photo-btn");
   const photo = document.getElementById("panel-photo");
   if (p.photo_url) {
     photo.alt = p.display_name;
-    photo.hidden = false;
     photo.src = p.photo_url;
+    photoBtn.hidden = false;
   } else {
-    photo.hidden = true;
+    photoBtn.hidden = true;
     photo.removeAttribute("src");
     photo.alt = "";
   }
@@ -696,6 +719,13 @@ function showPanel(id, people) {
 
 function hidePanel() {
   document.getElementById("panel").hidden = true;
+  const lightbox = document.getElementById("lightbox");
+  if (lightbox && !lightbox.hidden) {
+    lightbox.hidden = true;
+    const img = document.getElementById("lightbox-photo");
+    img.removeAttribute("src");
+    img.alt = "";
+  }
 }
 
 /** @type {Map<string, Person>} */
@@ -860,6 +890,36 @@ async function main() {
   document.getElementById("stage").addEventListener("click", (e) => {
     if (e.target.closest(".person")) return;
     // keep panel if focused via select; only clear dimming? leave as is
+  });
+
+  const lightbox = document.getElementById("lightbox");
+  const lightboxPhoto = document.getElementById("lightbox-photo");
+
+  function openLightbox() {
+    const photo = document.getElementById("panel-photo");
+    if (!photo.src) return;
+    lightboxPhoto.src = photo.src;
+    lightboxPhoto.alt = photo.alt;
+    lightbox.hidden = false;
+  }
+
+  function closeLightbox() {
+    lightbox.hidden = true;
+    lightboxPhoto.removeAttribute("src");
+    lightboxPhoto.alt = "";
+  }
+
+  document.getElementById("panel-photo-btn").addEventListener("click", openLightbox);
+  document.getElementById("lightbox-close").addEventListener("click", (e) => {
+    e.stopPropagation();
+    closeLightbox();
+  });
+  lightbox.addEventListener("click", (e) => {
+    if (e.target === lightboxPhoto) return;
+    closeLightbox();
+  });
+  window.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && !lightbox.hidden) closeLightbox();
   });
 
   const hint = document.getElementById("hint");
