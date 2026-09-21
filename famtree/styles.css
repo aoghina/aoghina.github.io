@@ -203,7 +203,7 @@ body {
 }
 
 .person.is-dim {
-  opacity: 0.22;
+  opacity: 0.5;
 }
 
 .person.is-path rect {
@@ -233,7 +233,7 @@ body {
 }
 
 .link.is-dim {
-  opacity: 0.08;
+  opacity: 0.32;
 }
 
 .link.is-path {

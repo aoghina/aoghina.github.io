@@ -357,7 +357,6 @@ function layout(people, units) {
   // Second pass: barycenter — children under parents, parents over children
   for (let iter = 0; iter < 8; iter++) {
     const gens = [...unitsByGen.keys()].sort((a, b) => a - b);
-    // Alternate top-down / bottom-up so roots can follow their kids
     const order = iter % 2 === 0 ? gens : [...gens].reverse();
     for (const g of order) {
       const list = unitsByGen.get(g);
@@ -369,30 +368,55 @@ function layout(people, units) {
 
       targets.sort((a, b) => a.target - b.target);
 
-      // Resolve overlaps left-to-right around targets
+      // Place near targets so branches stay clustered (gaps OK for now)
       let cursor = 0;
       const placed = [];
       for (const t of targets) {
-        let x = Math.max(cursor, t.target - t.w / 2);
+        const x = Math.max(cursor, t.target - t.w / 2);
         placed.push({ unit: t.unit, x, w: t.w });
         cursor = x + t.w + GAP_X;
       }
 
-      // Shift block to reduce drift from targets
       const drift =
         targets.reduce((s, t, i) => s + (t.target - (placed[i].x + t.w / 2)), 0) /
         targets.length;
-      for (const p of placed) {
-        p.x += drift;
-      }
+      for (const p of placed) p.x += drift;
 
-      // Re-pack if negative
       const minX = Math.min(...placed.map((p) => p.x));
       const shift = minX < 0 ? -minX : 0;
       const y = 40 + g * (CARD_H + GAP_Y);
       for (const p of placed) {
         placeUnit(p.unit, people, p.x + shift, y);
       }
+    }
+  }
+
+  // Final pass: keep that order, but close oversized gaps between clusters
+  for (const g of [...unitsByGen.keys()].sort((a, b) => a - b)) {
+    const list = unitsByGen.get(g);
+    const items = list
+      .map((unit) => ({
+        unit,
+        x: people.get(unit.ids[0]).x,
+        w: unitWidth(unit),
+      }))
+      .sort((a, b) => a.x - b.x);
+
+    let cursor = items[0].x;
+    for (let i = 0; i < items.length; i++) {
+      if (i === 0) {
+        cursor = items[0].x + items[0].w + GAP_X;
+        continue;
+      }
+      const minX = cursor;
+      if (items[i].x > minX) items[i].x = minX; // pull left into empty space
+      else if (items[i].x < minX) items[i].x = minX; // fix overlap
+      cursor = items[i].x + items[i].w + GAP_X;
+    }
+
+    const y = 40 + g * (CARD_H + GAP_Y);
+    for (const item of items) {
+      placeUnit(item.unit, people, item.x, y);
     }
   }
 
@@ -739,6 +763,7 @@ function setupCamera(root, bounds) {
   let tx = 0;
   let ty = 0;
   let dragging = false;
+  let moved = false;
   let lastX = 0;
   let lastY = 0;
 
@@ -760,6 +785,7 @@ function setupCamera(root, bounds) {
   stage.addEventListener("pointerdown", (e) => {
     if (e.target.closest(".person")) return;
     dragging = true;
+    moved = false;
     stage.classList.add("dragging");
     lastX = e.clientX;
     lastY = e.clientY;
@@ -768,8 +794,11 @@ function setupCamera(root, bounds) {
 
   stage.addEventListener("pointermove", (e) => {
     if (!dragging) return;
-    tx += e.clientX - lastX;
-    ty += e.clientY - lastY;
+    const dx = e.clientX - lastX;
+    const dy = e.clientY - lastY;
+    if (Math.abs(dx) > 3 || Math.abs(dy) > 3) moved = true;
+    tx += dx;
+    ty += dy;
     lastX = e.clientX;
     lastY = e.clientY;
     apply();
@@ -800,7 +829,15 @@ function setupCamera(root, bounds) {
 
   window.addEventListener("resize", fit);
 
-  return { fit, apply };
+  return {
+    fit,
+    apply,
+    wasDragging() {
+      const did = moved;
+      moved = false;
+      return did;
+    },
+  };
 }
 
 function showDataSource(source) {
@@ -878,18 +915,23 @@ async function main() {
     selectPerson(select.value);
   });
 
-  document.getElementById("btn-fit").addEventListener("click", () => camera.fit());
-  document.getElementById("btn-reset").addEventListener("click", () => {
+  function clearFocus() {
     focusId = null;
     select.value = "";
     applyFocus(null, PEOPLE);
     hidePanel();
+  }
+
+  document.getElementById("btn-fit").addEventListener("click", () => camera.fit());
+  document.getElementById("btn-reset").addEventListener("click", () => {
+    clearFocus();
     camera.fit();
   });
-  document.getElementById("panel-close").addEventListener("click", hidePanel);
+  document.getElementById("panel-close").addEventListener("click", clearFocus);
   document.getElementById("stage").addEventListener("click", (e) => {
     if (e.target.closest(".person")) return;
-    // keep panel if focused via select; only clear dimming? leave as is
+    if (camera.wasDragging()) return;
+    clearFocus();
   });
 
   const lightbox = document.getElementById("lightbox");
