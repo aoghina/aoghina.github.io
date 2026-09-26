@@ -266,6 +266,76 @@ function unionKey(a, b) {
 }
 
 /**
+ * People on one partner's bloodline: ancestors of the root, all their
+ * descendants on that side, plus partners (without the partner's family).
+ * Shared kids appear on both sides; the other partner appears alone.
+ */
+function bloodlineIds(rootId, people) {
+  const ids = new Set();
+  if (!people.has(rootId)) return ids;
+
+  function addAncestors(id) {
+    if (!id || !people.has(id) || ids.has(id)) return;
+    ids.add(id);
+    const p = people.get(id);
+    addAncestors(p.mother_id);
+    addAncestors(p.father_id);
+  }
+
+  addAncestors(rootId);
+
+  const queue = [...ids];
+  while (queue.length) {
+    const id = queue.shift();
+    for (const cid of people.get(id).children) {
+      if (!people.has(cid) || ids.has(cid)) continue;
+      ids.add(cid);
+      queue.push(cid);
+    }
+  }
+
+  for (const id of [...ids]) {
+    const partnerId = people.get(id).partner_id;
+    if (partnerId && people.has(partnerId)) ids.add(partnerId);
+  }
+
+  return ids;
+}
+
+/** Fresh map for layout: optional side filter, children rebuilt within the set. */
+function peopleForSide(all, side) {
+  const ids =
+    side === "oghina"
+      ? bloodlineIds("andrei-oghina", all)
+      : side === "zachia"
+        ? bloodlineIds("irina-oghina", all)
+        : new Set(all.keys());
+
+  const people = new Map();
+  for (const id of ids) {
+    const src = all.get(id);
+    people.set(id, {
+      ...src,
+      children: [],
+      gen: 0,
+      x: 0,
+      y: 0,
+    });
+  }
+
+  for (const p of people.values()) {
+    for (const parentId of [p.mother_id, p.father_id]) {
+      if (parentId && people.has(parentId)) {
+        people.get(parentId).children.push(p.id);
+      }
+    }
+  }
+
+  assignGenerations(people);
+  return people;
+}
+
+/**
  * Build layout units: a person alone, or a couple side-by-side.
  * @param {Map<string, Person>} people
  */
@@ -753,6 +823,8 @@ function hidePanel() {
 }
 
 /** @type {Map<string, Person>} */
+let ALL_PEOPLE;
+/** @type {Map<string, Person>} */
 let PEOPLE;
 let focusId = null;
 let selectPerson = () => {};
@@ -766,20 +838,28 @@ function setupCamera(root, bounds) {
   let moved = false;
   let lastX = 0;
   let lastY = 0;
+  let currentRoot = root;
+  let currentBounds = bounds;
 
   function apply() {
-    root.setAttribute("transform", `translate(${tx} ${ty}) scale(${scale})`);
+    currentRoot.setAttribute("transform", `translate(${tx} ${ty}) scale(${scale})`);
   }
 
   function fit() {
     const rect = stage.getBoundingClientRect();
     const pad = 40;
-    const sx = (rect.width - pad * 2) / bounds.width;
-    const sy = (rect.height - pad * 2) / bounds.height;
+    const sx = (rect.width - pad * 2) / currentBounds.width;
+    const sy = (rect.height - pad * 2) / currentBounds.height;
     scale = Math.min(1.15, Math.max(0.35, Math.min(sx, sy)));
-    tx = (rect.width - bounds.width * scale) / 2;
-    ty = Math.max(24, (rect.height - bounds.height * scale) / 2);
+    tx = (rect.width - currentBounds.width * scale) / 2;
+    ty = Math.max(24, (rect.height - currentBounds.height * scale) / 2);
     apply();
+  }
+
+  function setTree(nextRoot, nextBounds) {
+    currentRoot = nextRoot;
+    currentBounds = nextBounds;
+    fit();
   }
 
   stage.addEventListener("pointerdown", (e) => {
@@ -832,6 +912,7 @@ function setupCamera(root, bounds) {
   return {
     fit,
     apply,
+    setTree,
     wasDragging() {
       const did = moved;
       moved = false;
@@ -875,45 +956,62 @@ function showDataSource(source) {
 
 async function main() {
   const { people, source } = await loadPeople();
-  PEOPLE = people;
+  ALL_PEOPLE = people;
   showDataSource(source);
-  const units = buildUnits(PEOPLE);
-  const bounds = layout(PEOPLE, units);
-  const { root } = render(PEOPLE, bounds);
-  const camera = setupCamera(root, bounds);
-  camera.fit();
 
+  const sideSelect = document.getElementById("side-select");
   const select = document.getElementById("focus-select");
-  const sorted = [...PEOPLE.values()].sort((a, b) =>
-    a.display_name.localeCompare(b.display_name, "ro"),
-  );
-  const optAll = document.createElement("option");
-  optAll.value = "";
-  optAll.textContent = "Everyone";
-  select.append(optAll);
-  for (const p of sorted) {
-    const opt = document.createElement("option");
-    opt.value = p.id;
-    opt.textContent = p.display_name;
-    select.append(opt);
+  let camera = null;
+
+  function fillFocusOptions() {
+    const prev = select.value;
+    select.replaceChildren();
+    const optAll = document.createElement("option");
+    optAll.value = "";
+    optAll.textContent = "Everyone";
+    select.append(optAll);
+    const sorted = [...PEOPLE.values()].sort((a, b) =>
+      a.display_name.localeCompare(b.display_name, "ro"),
+    );
+    for (const p of sorted) {
+      const opt = document.createElement("option");
+      opt.value = p.id;
+      opt.textContent = p.display_name;
+      select.append(opt);
+    }
+    if (prev && PEOPLE.has(prev)) select.value = prev;
+    else select.value = "";
+  }
+
+  function rebuild(side) {
+    PEOPLE = peopleForSide(ALL_PEOPLE, side);
+    const units = buildUnits(PEOPLE);
+    const bounds = layout(PEOPLE, units);
+    const { root } = render(PEOPLE, bounds);
+    fillFocusOptions();
+
+    if (!camera) camera = setupCamera(root, bounds);
+    else camera.setTree(root, bounds);
+
+    const prefer =
+      side === "zachia"
+        ? "irina-oghina"
+        : side === "oghina"
+          ? "andrei-oghina"
+          : focusId && PEOPLE.has(focusId)
+            ? focusId
+            : "andrei-oghina";
+    if (PEOPLE.has(prefer)) selectPerson(prefer);
+    else clearFocus();
   }
 
   selectPerson = (id) => {
+    if (!PEOPLE.has(id)) return;
     focusId = id;
     select.value = id;
     applyFocus(id, PEOPLE);
     showPanel(id, PEOPLE);
   };
-
-  select.addEventListener("change", () => {
-    if (!select.value) {
-      focusId = null;
-      applyFocus(null, PEOPLE);
-      hidePanel();
-      return;
-    }
-    selectPerson(select.value);
-  });
 
   function clearFocus() {
     focusId = null;
@@ -921,6 +1019,18 @@ async function main() {
     applyFocus(null, PEOPLE);
     hidePanel();
   }
+
+  select.addEventListener("change", () => {
+    if (!select.value) {
+      clearFocus();
+      return;
+    }
+    selectPerson(select.value);
+  });
+
+  sideSelect.addEventListener("change", () => {
+    rebuild(sideSelect.value);
+  });
 
   document.getElementById("btn-fit").addEventListener("click", () => camera.fit());
   document.getElementById("btn-reset").addEventListener("click", () => {
@@ -967,8 +1077,7 @@ async function main() {
   const hint = document.getElementById("hint");
   setTimeout(() => hint.classList.add("fade"), 4000);
 
-  // Nice default: focus the junction couple's child generation
-  selectPerson("andrei-oghina");
+  rebuild("all");
 }
 
 main().catch((err) => {

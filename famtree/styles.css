@@ -73,9 +73,12 @@ body {
   display: flex;
   align-items: center;
   gap: 0.5rem;
-  margin-left: auto;
   font-size: 0.8rem;
   color: var(--muted);
+}
+
+.focus-label:first-of-type {
+  margin-left: auto;
 }
 
 .focus-label select {
