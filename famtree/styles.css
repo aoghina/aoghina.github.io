@@ -318,8 +318,9 @@ body {
 .panel-photo {
   display: block;
   width: 100%;
-  max-height: 200px;
+  max-height: 320px;
   object-fit: cover;
+  object-position: center top;
   border-radius: 10px;
   background: var(--card);
   pointer-events: none;
